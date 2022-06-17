@@ -1,0 +1,45 @@
+# Appsterdam Peer Lab
+Held at 2013-09-07 at The Coffee Room with 8 Appsterdammers.
+        
+|Key|Value
+|---|---|
+|id|[137912052](https://www.meetup.com/appsterdam/events/137912052/)|
+|name|Appsterdam Peer Lab|
+|organizer|Appsterdam|
+|attendees|8|
+|begin date|2013-09-07|
+|end date|2013-09-07|
+|price|0|
+|location name|The Coffee Room|
+|location address|Kinkerstraat 110, Amsterdam|
+|latitude|52.367077|
+|longitude|4.871191|
+|(in-app) icon|note.text|
+
+---
+
+Come join Appsterdammers for a cup of coffee and a chance to ask questions or talk about the problems you're facing in your projects. Bring a laptop, meet other devs, and find someone who can sit down with your code and help you out with the problem you're facing. If you'd like to just come and answer questions for people, bring your laptop and maybe get some work done if no one asks you questions.
+
+The event is over at 11, so you're better off coming closer to 9 to make sure you have a chance to get the help you need.
+
+Just to give you an idea, things you might ask about we can help with might include:
+
+- Using git or GitHub
+
+- iOS Development
+
+- Android Development
+
+- "Big Data" and statistics
+
+- R 
+
+- Machine Learning
+
+- Ruby on Rails
+
+- Unit Testing 
+
+- Other app-making things your peers can help you with
+
+
