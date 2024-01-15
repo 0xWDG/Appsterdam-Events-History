@@ -47,593 +47,64 @@
 
 ## Overall Statistics
 
-|Event|Count|Average Attendees
-|---|---|---|
-|Weekly Meeten en Drinken|629|7|
-|Coffee Coding|230|6|
-|Weekend Fun|18|8|
-|Code Buffet v2.0|1|10|
-|Your resume ends up in the pile, you do this to avoid it [for app developers]|1|24|
-|Neural Networks and Chill: A Casual Meet-up for AI and ML Enthusiasts|1|5|
-|Landing on a app job in Holland, tips & tricks|1|27|
-|Appsterdam @ AppDevCon|1|6|
-|Fem-tech: Inspiring talks about Women in tech & networking event|1|63|
-|Appsterdam Boat Tour (AppDevcon + EndpointCon)|1|3|
-|Landing on a job in Holland, tips & tricks|1|63|
-|Code Buffet |1|17|
-| Flutter Quick Start|1|28|
-|Appsterdam Business Chat|221|3|
-|Gamestate|1|5|
-|Appsterdam @ APPDEVCON + APPRIL|1|6|
-|WWDC Keynote Watch Party|1|10|
-|Meeten en Drinken (Saturday edition)|4|3|
-|Weekly Meeten en (Day) Drinken|3|1|
-|Rethinking Race|1|7|
-|Meeten en Drinken - BAX REBOOT edition |1|6|
-|appsterrun|17|1|
-|Virtual Bax - Zoom Edition|1|9|
-|Formal Friday|1|5|
-|Formal Friday for Founders|1|12|
-|Appsterdam Peer Lab|300|5|
-|Appsterdam Business Chat - Special Edition #Deepfakes!|1|5|
-|Appsterdam Game Night|10|8|
-|Appsterdam Chat: Meet the blockchain-based peer-to-peer energy trading community|1|18|
-|Appsterdam Business Chat - What is the future of hackathons?|1|6|
-|Appsterdam Business Chat - Tech Savvy Farming|1|23|
-|Appsterdam Lunch Event|42|5|
-|Appsterdam @ Appdevcon 2017|1|13|
-|Appsterdam Lunch Event Special AppDevCon Speaker|1|13|
-|Special Lecture - What Makes The Amsterdam Startup Ecosystem So Special?|1|7|
-|Coding x Journalism|1|26|
-|The Triggi Discovery Day|1|33|
-|Appsterdam Lunch Event - A Brief History of Artificial Intelligence|1|20|
-|Appsterdam Lunch Event - How Do Patents Power Your Startup?|1|15|
-|Appsterdam Lunch Event - Building Mega Groovy Features|1|11|
-|Stedelijk Museum Special Nerderlands tour|1|13|
-|Drone film night curated by Eddie Codel - Nerderlands edition|1|81|
-|Guru Session: Data Driven Storytelling (Nerderlands edition)|1|48|
-|Appsterdam Meeten en Drinken - Nerderlands edition|1|33|
-|Wednesday Lecture with Eddie Codel - Nerderlands Edition|1|29|
-|Nerderlands-Marineterrein-Makerversity sneak preview!|1|27|
-|Weekly Wednesday Lunchtime Lectures|188|17|
-|Appsterdam 5-Year Birthday Meeten en Drinken|1|25|
-|Pitch Club @ A Lab [Special Anniversary Edition]|1|12|
-|Pitch Club @ Appril|1|5|
-|Appsterdammers @ Mdevcon 2016!|1|22|
-|Pitch Club|41|10|
-|Special WWLL: Tracking @Human Activity In Smart Cities|1|30|
-|Special WWLL: "If it ain't broke, don't Fixxx it"|1|23|
-|Special N8 Guru Session!|1|31|
-|Opening! Appsterdam N8 Hackathon|1|65|
-|Mobile Apps Workbench|1|16|
-|Weekly Wednesday Lunchtime Lecture|1|6|
-|Appsterdam Smart City Hackathon|1|72|
-|GetDNS TNW2015 Hackathon|1|14|
-|Toon Open Hackathon - March 6th – 8th|1|73|
-|Appsterdam Peer Lab @ mdevcon|1|11|
-|Monthly Speaker Training Meeting|24|6|
-|Guru Session: “I have an idea for an app” - Part 2|1|11|
-|Wednesday Lunchtime Lecture|1|9|
-|KPMG Drop-in Dr. Session|10|15|
-|Guru Session: “I have an idea for an app” - Part 1|1|35|
-|Appsterdam Guru Session: Introduction to iOS programming with Swift|1|21|
-|Most responsible app award contest.|1|44|
-|iBeacon Experience Days|1|180|
-|Appsterdam Guru Session: HTML5 App Camp|1|7|
-|Appsterdam Summer Drink|1|65|
-|Guru Session, StartupWeekend Edition! Hands-on with Google Cloud Platform|1|26|
-|Appsterdam Guru Session: Introduction to Gestures on iOS|1|7|
-|Appsterdam Salesforce1 Hackathon|1|29|
-|Tin Men and the Telephone - Apps and Jazz|1|11|
-|Google Cloud Platform Developer Roadshow|1|35|
-|Arduino Show and Tell|1|24|
-|DEMO DAY - Leap Motion and Oculus Rift|1|56|
-|Weekend Fun - Let's go to Artis Zoo!|1|9|
-|Appsterdam @ mdevcon|2|33|
-|Appsterdam Guru Session: Automatic testing using Calabash on iPhone and Android|1|18|
-|Appsterdam in Germany! Let's have a kohlfahrt!|3|21|
-|Meet the Makers: Game Changers|1|36|
-|Appsterdam Guru Session: Open Data for Android|1|16|
-|iBeacon Discovery day at A-Lab|1|40|
-|New Year's Drink|1|119|
-|Annual Appsterdam Holiday Gathering|1|32|
-|NFC Sneak Preview at Startupbootcamp|1|20|
-|Appsterdam Guru Session: iOS for Beginners|3|20|
-|NSHipster Pub Quiz|1|20|
-|Ask Mattt Anything...|1|19|
-|"Speurtocht" (scavenger hunt) at A Lab|1|35|
-|Appsterdam HQ Housewarming Party!|1|109|
-|Appsterdam Bike Brigade|6|5|
-|Appsterdam HQ Sneak Peek|1|12|
-|Implement open parking data w/ Dutch government|1|10|
-|Appsterdam Bike Brigade: Haarlem Tour|1|11|
-|Appsterdam Summer Fun: Picnic Boat trip!|1|15|
-|Appsterdam Guru Session: Google App Engine for Beginners|1|16|
-|Appsterdam Bike Bridgade|4|4|
-|Appsterdam @ GOTO Amsterdam 2013|1|17|
-|Open Hardware Documentation Jam|1|24|
-|Appsterdam Birthday: Volunteer Appreciation "Hangover" Brunch|1|45|
-|Appsterdam Birthday: We're 2!|1|117|
-|The Waag and Waag Society Fablab|1|21|
-|Appsterdam Bike Tour|1|7|
-|DIY GPS City Tours|1|11|
-|The secrets of Pathé Tuschinski|1|20|
-|Meet the Makers: Glimworm IT|1|22|
-|Appsterdam Monthly Game Day!|5|11|
-|Apps zijn de nieuwe media (Apps are new media)|1|21|
-|Get ready...to launch!|1|60|
-|Guru Session: D3 Datavisualization Hackathon!|1|20|
-|Appsterdam Guru Session: App Marketing Best Practices|1|26|
-|Appsterdam Family Weekend: Holiday Gathering|2|16|
-|Appsterdam Guru Session: Data mining with R|2|21|
-|Appsterdam Guru Session: Hands-on Android porting lab to BlackBerry|1|5|
-|Weekly Legal & Business Q&A|3|3|
-|'Vaporware to Makerware' Featuring Appsterdam Genius Grant Recipient Whurley|1|36|
-|Appsterdam Monthly Game Day! Special Sinterklaas Edition!|1|17|
-|Guru Session: Programming for beginners|1|17|
-|Appsterdam Brainstorm Day - Letterkundig Museum|1|18|
-|Appsterdam Delft: Investors|1|53|
-|Appreneur Day|1|11|
-|Appsterdam Family Weekend: Dutch Trivia Game|1|18|
-|Get your legal and/or tax questions answered|1|7|
-|Perfect Storm Europe - Day 1/2|1|35|
-|Guru Session: Android Design Patterns (and tools!)|1|16|
-|Guru Session: Rails API for Mobile Developers!|1|9|
-|Guru Session: Smalltalk Programming with Spoon|1|11|
-|Appsterdam Guru Session: Build your web API on Softlayer and Drupal|1|14|
-|Pitch Contest @ #PICNIC12 App Ecosystem Tent|1|11|
-|Data Visualization workshop by the InnoViz team at #PICNIC12|2|18|
-|Speed Networking Day 2 @ #PICNIC12 App Ecosystem Tent|1|18|
-|Big Nerd Ranch Guru Session @ #PICNIC12 - Beyond Touch: Attitudes in Motion|1|10|
-|Urban Ecosystem CyclingTour @ #PICNIC12 App Ecosystem Tent- Day 2, morning|1|3|
-|App Ecosystem Tent @ #PICNIC12 - Day 2|1|50|
-|Speed Networking Day 1 @ #PICNIC12 App Ecosystem Tent|1|20|
-|Urban Ecosystem CyclingTour @ #PICNIC12 App Ecosystem Tent- Day 1, morning|1|3|
-|COSM Guru Session @ App Ecosystem Tent, #PICNIC12|1|11|
-|App Ecosystem Tent @ #PICNIC12 - Day 1|1|70|
-|Appsterdam Family Weekend: Picnic in Artis Zoo!|1|25|
-|PICNIC App Ecosystem Tent Volunteer Meeting|1|11|
-|Appsterdam Family Weekend: Boating Day!|1|24|
-|Appsterdam Summer Barbecue with Softlayer|1|63|
-|Appsterdam Guru Session: Blackberry Dev using HTML5|1|5|
-|PICNIC Tent Volunteer Roundup|1|15|
-|Appsterdam Guru Session: Movie Editing and Scoring|1|12|
-|Appsterdam Family Weekend: Game Day!|8|11|
-|Appsterdam Guru Session: Scrum/Agile Introduction - Sprint 0!|1|28|
-|Appsterdam Family Weekend: Rotterdam Walking Tour!|1|8|
-|iOSDevCamp Appsterdam Satellite!|1|54|
-|Appsterdam Guru Session: Maps and Location for iOS|1|18|
-|Appsterdam Speaker Club|1|16|
-|Appsterdam Guru Session: Let’s Play the Get Kanban Game (beta test)|1|8|
-|Help designing KPN's developer facing API portal july 2nd|1|4|
-|Appsterdam: How do I get involved?|1|46|
-|Appsterdam Family Weekend: Picnic at the beach!|1|9|
-|Apple WWDC Keynote|1|39|
-|Monthly Meeten & Drinken Appsterdam Delft|8|7|
-|Appsterdam@Waag Open Space: Apps & business models|1|55|
-|Engineers & Beers - Software Developers Meetup in the centre of Amsterdam|1|17|
-|Appsterdam Family Weekend: Historical Tram Tour|1|21|
-|Appsterdam Family Weekend: Amsterdamse Bos|1|12|
-|Appsterdam Guru Session: A hands-on introduction to MongoDB!|1|21|
-|Appsterdam at Waag Open Space hosted by Appril|1|30|
-|Review over Breakfast (Programming for Beginners!)|1|13|
-|Appsterdam Guru Session: Programming for Beginners!|1|27|
-|Appsterdam HQ Open House|1|108|
-|Appsterdam Delft - Meet the Makers: Growing pains|1|71|
-|Apps for Smart Cities|1|57|
-|Appsterdam Guru Session: Tools for Android Game Development|1|16|
-|Dutch BlackBerry Development Group|1|7|
-|Appsterdam at Waag Open Space|1|35|
-|Appsterdam Family Weekend: Utrecht Walking Tour!|1|26|
-|Appsterdam Guru Session: iOS/Mac Security Lab|1|4|
-|Appsterdam Guru Session: User Experience Design|1|24|
-|Mdevcon Conference|1|44|
-|Dom Sagolla @ WWLL !|1|57|
-|Appsterdam Family Weekend: Cooking Class!|1|18|
-|Appsterdam Guru Session: Design Prototyping Tools|1|17|
-|Appsterdam & Waag Open Space event|1|40|
-|Appsterdam Guru Sessions: iOS Notifications and Network Polling|1|20|
-|Last minute: The Nerd Boiler - Finnish sauna|1|6|
-|Appsterdam Guru Session: Windows Phone from Scratch|1|19|
-|TU Delft App competition|1|24|
-|StartupBus Europe kick-off party powered by Startupbootcamp and Atlassian|1|19|
-|Session 2: create new mobile concepts with KPN API|1|14|
-|Appsterdam Guru Session: Design for Apps!|1|17|
-|Droidcon.nl|2|9|
-|Session 1: create new mobile concepts with KPN API|1|12|
-|21/11 'Appsterdam & Waag Open Space' Launch event|1|28|
-|Appsterdam Guru Session: Isometric engine for Android games!|1|6|
-|Appsterdam Launch Party 2.0 Family Potluck Brunch, sponsored by Boven de Balie|1|62|
-|Appsterdam Launch Party 2.0 Overwinter: Museumnacht, sponsored by SoftLayer|1|42|
-|Appsterdam Launch Party 2.0 Overwinter Keynote, sponsored by Sogeti & IceMobile|1|245|
-|Appsterdam Launch Party 2.0 Overwinter Meeten en Drinken, sponsored by Microsoft|1|117|
-|Amsterdam Film Week + ticket raffle|1|14|
-|Appsterdam Guru Session: Business Model Canvas|1|20|
-|Meet the Makers 2: Appsterdam Delft|1|79|
-|Appsterdam Guru Session: Android From Scratch|1|23|
-|Monthly Meeten en Drinken Delft|1|5|
-|Appsterdam Operation Anthill Legal Summit, Hosted By The Waag Society|1|32|
-|Weekly Meeten en Drinken Delft|9|3|
-|Appsterdam Family Weekend @ De Hortus Botanicus|1|8|
-|Meet The Makers|3|23|
-|Appsterdam at PICNIC - Hackathon!|2|21|
-|Appsterdam Family Weekend picnic @ Het Vondelpark|1|11|
-|SPING villa Vrijenban Hangout|21|2|
-|Meet the Makers: Appsterdam Delft|1|30|
-|NDSM-Werf Hangout|2|3|
-|Appsterdam Family Weekend with LIVE music @ De Hortus Botanicus|1|8|
-|NDSM Werf Hangout|12|4|
-|Appsterdam Family Weekend @ NEMO Science Center|1|17|
-|Meet the Makers|1|74|
-|NDSM Special: Reggae Festival - Mobile cameramen invited|1|3|
-|Appsterdam Guru Session: Test Driven Development|1|21|
-|First Meeten & Drinken - Appsterdam Delft|1|13|
-|We meet, drink beer en talk about PICNIC2011|1|14|
-|NDSM Werf Hangout trial|1|3|
-|Let's discuss what we want out of the Group.|1|18|
-
+<table><tr><th>Event</th><th>Count</th><th>Average Attendees</th></tr><tr><td>Weekly Meeten en Drinken</td><td>629</td><td>7</td></tr><tr><td>Coffee Coding</td><td>230</td><td>6</td></tr><tr><td>Weekend Fun</td><td>18</td><td>8</td></tr><tr><td>Code Buffet v2.0</td><td>1</td><td>10</td></tr><tr><td>Your resume ends up in the pile, you do this to avoid it [for app developers]</td><td>1</td><td>24</td></tr><tr><td>Neural Networks and Chill: A Casual Meet-up for AI and ML Enthusiasts</td><td>1</td><td>5</td></tr><tr><td>Landing on a app job in Holland, tips & tricks</td><td>1</td><td>27</td></tr><tr><td>Appsterdam @ AppDevCon</td><td>1</td><td>6</td></tr><tr><td>Fem-tech: Inspiring talks about Women in tech & networking event</td><td>1</td><td>63</td></tr><tr><td>Appsterdam Boat Tour (AppDevcon + EndpointCon)</td><td>1</td><td>3</td></tr><tr><td>Landing on a job in Holland, tips & tricks</td><td>1</td><td>63</td></tr><tr><td>Code Buffet </td><td>1</td><td>17</td></tr><tr><td> Flutter Quick Start</td><td>1</td><td>28</td></tr><tr><td>Appsterdam Business Chat</td><td>221</td><td>3</td></tr><tr><td>Gamestate</td><td>1</td><td>5</td></tr><tr><td>Appsterdam @ APPDEVCON + APPRIL</td><td>1</td><td>6</td></tr><tr><td>WWDC Keynote Watch Party</td><td>1</td><td>10</td></tr><tr><td>Meeten en Drinken (Saturday edition)</td><td>4</td><td>3</td></tr><tr><td>Weekly Meeten en (Day) Drinken</td><td>3</td><td>1</td></tr><tr><td>Rethinking Race</td><td>1</td><td>7</td></tr><tr><td>Meeten en Drinken - BAX REBOOT edition </td><td>1</td><td>6</td></tr><tr><td>appsterrun</td><td>17</td><td>1</td></tr><tr><td>Virtual Bax - Zoom Edition</td><td>1</td><td>9</td></tr><tr><td>Formal Friday</td><td>1</td><td>5</td></tr><tr><td>Formal Friday for Founders</td><td>1</td><td>12</td></tr><tr><td>Appsterdam Peer Lab</td><td>300</td><td>5</td></tr><tr><td>Appsterdam Business Chat - Special Edition #Deepfakes!</td><td>1</td><td>5</td></tr><tr><td>Appsterdam Game Night</td><td>10</td><td>8</td></tr><tr><td>Appsterdam Chat: Meet the blockchain-based peer-to-peer energy trading community</td><td>1</td><td>18</td></tr><tr><td>Appsterdam Business Chat - What is the future of hackathons?</td><td>1</td><td>6</td></tr><tr><td>Appsterdam Business Chat - Tech Savvy Farming</td><td>1</td><td>23</td></tr><tr><td>Appsterdam Lunch Event</td><td>42</td><td>5</td></tr><tr><td>Appsterdam @ Appdevcon 2017</td><td>1</td><td>13</td></tr><tr><td>Appsterdam Lunch Event Special AppDevCon Speaker</td><td>1</td><td>13</td></tr><tr><td>Special Lecture - What Makes The Amsterdam Startup Ecosystem So Special?</td><td>1</td><td>7</td></tr><tr><td>Coding x Journalism</td><td>1</td><td>26</td></tr><tr><td>The Triggi Discovery Day</td><td>1</td><td>33</td></tr><tr><td>Appsterdam Lunch Event - A Brief History of Artificial Intelligence</td><td>1</td><td>20</td></tr><tr><td>Appsterdam Lunch Event - How Do Patents Power Your Startup?</td><td>1</td><td>15</td></tr><tr><td>Appsterdam Lunch Event - Building Mega Groovy Features</td><td>1</td><td>11</td></tr><tr><td>Stedelijk Museum Special Nerderlands tour</td><td>1</td><td>13</td></tr><tr><td>Drone film night curated by Eddie Codel - Nerderlands edition</td><td>1</td><td>81</td></tr><tr><td>Guru Session: Data Driven Storytelling (Nerderlands edition)</td><td>1</td><td>48</td></tr><tr><td>Appsterdam Meeten en Drinken - Nerderlands edition</td><td>1</td><td>33</td></tr><tr><td>Wednesday Lecture with Eddie Codel - Nerderlands Edition</td><td>1</td><td>29</td></tr><tr><td>Nerderlands-Marineterrein-Makerversity sneak preview!</td><td>1</td><td>27</td></tr><tr><td>Weekly Wednesday Lunchtime Lectures</td><td>188</td><td>17</td></tr><tr><td>Appsterdam 5-Year Birthday Meeten en Drinken</td><td>1</td><td>25</td></tr><tr><td>Pitch Club @ A Lab [Special Anniversary Edition]</td><td>1</td><td>12</td></tr><tr><td>Pitch Club @ Appril</td><td>1</td><td>5</td></tr><tr><td>Appsterdammers @ Mdevcon 2016!</td><td>1</td><td>22</td></tr><tr><td>Pitch Club</td><td>41</td><td>10</td></tr><tr><td>Special WWLL: Tracking @Human Activity In Smart Cities</td><td>1</td><td>30</td></tr><tr><td>Special WWLL: "If it ain't broke, don't Fixxx it"</td><td>1</td><td>23</td></tr><tr><td>Special N8 Guru Session!</td><td>1</td><td>31</td></tr><tr><td>Opening! Appsterdam N8 Hackathon</td><td>1</td><td>65</td></tr><tr><td>Mobile Apps Workbench</td><td>1</td><td>16</td></tr><tr><td>Weekly Wednesday Lunchtime Lecture</td><td>1</td><td>6</td></tr><tr><td>Appsterdam Smart City Hackathon</td><td>1</td><td>72</td></tr><tr><td>GetDNS TNW2015 Hackathon</td><td>1</td><td>14</td></tr><tr><td>Toon Open Hackathon - March 6th – 8th</td><td>1</td><td>73</td></tr><tr><td>Appsterdam Peer Lab @ mdevcon</td><td>1</td><td>11</td></tr><tr><td>Monthly Speaker Training Meeting</td><td>24</td><td>6</td></tr><tr><td>Guru Session: “I have an idea for an app” - Part 2</td><td>1</td><td>11</td></tr><tr><td>Wednesday Lunchtime Lecture</td><td>1</td><td>9</td></tr><tr><td>KPMG Drop-in Dr. Session</td><td>10</td><td>15</td></tr><tr><td>Guru Session: “I have an idea for an app” - Part 1</td><td>1</td><td>35</td></tr><tr><td>Appsterdam Guru Session: Introduction to iOS programming with Swift</td><td>1</td><td>21</td></tr><tr><td>Most responsible app award contest.</td><td>1</td><td>44</td></tr><tr><td>iBeacon Experience Days</td><td>1</td><td>180</td></tr><tr><td>Appsterdam Guru Session: HTML5 App Camp</td><td>1</td><td>7</td></tr><tr><td>Appsterdam Summer Drink</td><td>1</td><td>65</td></tr><tr><td>Guru Session, StartupWeekend Edition! Hands-on with Google Cloud Platform</td><td>1</td><td>26</td></tr><tr><td>Appsterdam Guru Session: Introduction to Gestures on iOS</td><td>1</td><td>7</td></tr><tr><td>Appsterdam Salesforce1 Hackathon</td><td>1</td><td>29</td></tr><tr><td>Tin Men and the Telephone - Apps and Jazz</td><td>1</td><td>11</td></tr><tr><td>Google Cloud Platform Developer Roadshow</td><td>1</td><td>35</td></tr><tr><td>Arduino Show and Tell</td><td>1</td><td>24</td></tr><tr><td>DEMO DAY - Leap Motion and Oculus Rift</td><td>1</td><td>56</td></tr><tr><td>Weekend Fun - Let's go to Artis Zoo!</td><td>1</td><td>9</td></tr><tr><td>Appsterdam @ mdevcon</td><td>2</td><td>33</td></tr><tr><td>Appsterdam Guru Session: Automatic testing using Calabash on iPhone and Android</td><td>1</td><td>18</td></tr><tr><td>Appsterdam in Germany! Let's have a kohlfahrt!</td><td>3</td><td>21</td></tr><tr><td>Meet the Makers: Game Changers</td><td>1</td><td>36</td></tr><tr><td>Appsterdam Guru Session: Open Data for Android</td><td>1</td><td>16</td></tr><tr><td>iBeacon Discovery day at A-Lab</td><td>1</td><td>40</td></tr><tr><td>New Year's Drink</td><td>1</td><td>119</td></tr><tr><td>Annual Appsterdam Holiday Gathering</td><td>1</td><td>32</td></tr><tr><td>NFC Sneak Preview at Startupbootcamp</td><td>1</td><td>20</td></tr><tr><td>Appsterdam Guru Session: iOS for Beginners</td><td>3</td><td>20</td></tr><tr><td>NSHipster Pub Quiz</td><td>1</td><td>20</td></tr><tr><td>Ask Mattt Anything...</td><td>1</td><td>19</td></tr><tr><td>"Speurtocht" (scavenger hunt) at A Lab</td><td>1</td><td>35</td></tr><tr><td>Appsterdam HQ Housewarming Party!</td><td>1</td><td>109</td></tr><tr><td>Appsterdam Bike Brigade</td><td>6</td><td>5</td></tr><tr><td>Appsterdam HQ Sneak Peek</td><td>1</td><td>12</td></tr><tr><td>Implement open parking data w/ Dutch government</td><td>1</td><td>10</td></tr><tr><td>Appsterdam Bike Brigade: Haarlem Tour</td><td>1</td><td>11</td></tr><tr><td>Appsterdam Summer Fun: Picnic Boat trip!</td><td>1</td><td>15</td></tr><tr><td>Appsterdam Guru Session: Google App Engine for Beginners</td><td>1</td><td>16</td></tr><tr><td>Appsterdam Bike Bridgade</td><td>4</td><td>4</td></tr><tr><td>Appsterdam @ GOTO Amsterdam 2013</td><td>1</td><td>17</td></tr><tr><td>Open Hardware Documentation Jam</td><td>1</td><td>24</td></tr><tr><td>Appsterdam Birthday: Volunteer Appreciation "Hangover" Brunch</td><td>1</td><td>45</td></tr><tr><td>Appsterdam Birthday: We're 2!</td><td>1</td><td>117</td></tr><tr><td>The Waag and Waag Society Fablab</td><td>1</td><td>21</td></tr><tr><td>Appsterdam Bike Tour</td><td>1</td><td>7</td></tr><tr><td>DIY GPS City Tours</td><td>1</td><td>11</td></tr><tr><td>The secrets of Pathé Tuschinski</td><td>1</td><td>20</td></tr><tr><td>Meet the Makers: Glimworm IT</td><td>1</td><td>22</td></tr><tr><td>Appsterdam Monthly Game Day!</td><td>5</td><td>11</td></tr><tr><td>Apps zijn de nieuwe media (Apps are new media)</td><td>1</td><td>21</td></tr><tr><td>Get ready...to launch!</td><td>1</td><td>60</td></tr><tr><td>Guru Session: D3 Datavisualization Hackathon!</td><td>1</td><td>20</td></tr><tr><td>Appsterdam Guru Session: App Marketing Best Practices</td><td>1</td><td>26</td></tr><tr><td>Appsterdam Family Weekend: Holiday Gathering</td><td>2</td><td>16</td></tr><tr><td>Appsterdam Guru Session: Data mining with R</td><td>2</td><td>21</td></tr><tr><td>Appsterdam Guru Session: Hands-on Android porting lab to BlackBerry</td><td>1</td><td>5</td></tr><tr><td>Weekly Legal & Business Q&A</td><td>3</td><td>3</td></tr><tr><td>'Vaporware to Makerware' Featuring Appsterdam Genius Grant Recipient Whurley</td><td>1</td><td>36</td></tr><tr><td>Appsterdam Monthly Game Day! Special Sinterklaas Edition!</td><td>1</td><td>17</td></tr><tr><td>Guru Session: Programming for beginners</td><td>1</td><td>17</td></tr><tr><td>Appsterdam Brainstorm Day - Letterkundig Museum</td><td>1</td><td>18</td></tr><tr><td>Appsterdam Delft: Investors</td><td>1</td><td>53</td></tr><tr><td>Appreneur Day</td><td>1</td><td>11</td></tr><tr><td>Appsterdam Family Weekend: Dutch Trivia Game</td><td>1</td><td>18</td></tr><tr><td>Get your legal and/or tax questions answered</td><td>1</td><td>7</td></tr><tr><td>Perfect Storm Europe - Day 1/2</td><td>1</td><td>35</td></tr><tr><td>Guru Session: Android Design Patterns (and tools!)</td><td>1</td><td>16</td></tr><tr><td>Guru Session: Rails API for Mobile Developers!</td><td>1</td><td>9</td></tr><tr><td>Guru Session: Smalltalk Programming with Spoon</td><td>1</td><td>11</td></tr><tr><td>Appsterdam Guru Session: Build your web API on Softlayer and Drupal</td><td>1</td><td>14</td></tr><tr><td>Pitch Contest @ #PICNIC12 App Ecosystem Tent</td><td>1</td><td>11</td></tr><tr><td>Data Visualization workshop by the InnoViz team at #PICNIC12</td><td>2</td><td>18</td></tr><tr><td>Speed Networking Day 2 @ #PICNIC12 App Ecosystem Tent</td><td>1</td><td>18</td></tr><tr><td>Big Nerd Ranch Guru Session @ #PICNIC12 - Beyond Touch: Attitudes in Motion</td><td>1</td><td>10</td></tr><tr><td>Urban Ecosystem CyclingTour @ #PICNIC12 App Ecosystem Tent- Day 2, morning</td><td>1</td><td>3</td></tr><tr><td>App Ecosystem Tent @ #PICNIC12 - Day 2</td><td>1</td><td>50</td></tr><tr><td>Speed Networking Day 1 @ #PICNIC12 App Ecosystem Tent</td><td>1</td><td>20</td></tr><tr><td>Urban Ecosystem CyclingTour @ #PICNIC12 App Ecosystem Tent- Day 1, morning</td><td>1</td><td>3</td></tr><tr><td>COSM Guru Session @ App Ecosystem Tent, #PICNIC12</td><td>1</td><td>11</td></tr><tr><td>App Ecosystem Tent @ #PICNIC12 - Day 1</td><td>1</td><td>70</td></tr><tr><td>Appsterdam Family Weekend: Picnic in Artis Zoo!</td><td>1</td><td>25</td></tr><tr><td>PICNIC App Ecosystem Tent Volunteer Meeting</td><td>1</td><td>11</td></tr><tr><td>Appsterdam Family Weekend: Boating Day!</td><td>1</td><td>24</td></tr><tr><td>Appsterdam Summer Barbecue with Softlayer</td><td>1</td><td>63</td></tr><tr><td>Appsterdam Guru Session: Blackberry Dev using HTML5</td><td>1</td><td>5</td></tr><tr><td>PICNIC Tent Volunteer Roundup</td><td>1</td><td>15</td></tr><tr><td>Appsterdam Guru Session: Movie Editing and Scoring</td><td>1</td><td>12</td></tr><tr><td>Appsterdam Family Weekend: Game Day!</td><td>8</td><td>11</td></tr><tr><td>Appsterdam Guru Session: Scrum/Agile Introduction - Sprint 0!</td><td>1</td><td>28</td></tr><tr><td>Appsterdam Family Weekend: Rotterdam Walking Tour!</td><td>1</td><td>8</td></tr><tr><td>iOSDevCamp Appsterdam Satellite!</td><td>1</td><td>54</td></tr><tr><td>Appsterdam Guru Session: Maps and Location for iOS</td><td>1</td><td>18</td></tr><tr><td>Appsterdam Speaker Club</td><td>1</td><td>16</td></tr><tr><td>Appsterdam Guru Session: Let’s Play the Get Kanban Game (beta test)</td><td>1</td><td>8</td></tr><tr><td>Help designing KPN's developer facing API portal july 2nd</td><td>1</td><td>4</td></tr><tr><td>Appsterdam: How do I get involved?</td><td>1</td><td>46</td></tr><tr><td>Appsterdam Family Weekend: Picnic at the beach!</td><td>1</td><td>9</td></tr><tr><td>Apple WWDC Keynote</td><td>1</td><td>39</td></tr><tr><td>Monthly Meeten & Drinken Appsterdam Delft</td><td>8</td><td>7</td></tr><tr><td>Appsterdam@Waag Open Space: Apps & business models</td><td>1</td><td>55</td></tr><tr><td>Engineers & Beers - Software Developers Meetup in the centre of Amsterdam</td><td>1</td><td>17</td></tr><tr><td>Appsterdam Family Weekend: Historical Tram Tour</td><td>1</td><td>21</td></tr><tr><td>Appsterdam Family Weekend: Amsterdamse Bos</td><td>1</td><td>12</td></tr><tr><td>Appsterdam Guru Session: A hands-on introduction to MongoDB!</td><td>1</td><td>21</td></tr><tr><td>Appsterdam at Waag Open Space hosted by Appril</td><td>1</td><td>30</td></tr><tr><td>Review over Breakfast (Programming for Beginners!)</td><td>1</td><td>13</td></tr><tr><td>Appsterdam Guru Session: Programming for Beginners!</td><td>1</td><td>27</td></tr><tr><td>Appsterdam HQ Open House</td><td>1</td><td>108</td></tr><tr><td>Appsterdam Delft - Meet the Makers: Growing pains</td><td>1</td><td>71</td></tr><tr><td>Apps for Smart Cities</td><td>1</td><td>57</td></tr><tr><td>Appsterdam Guru Session: Tools for Android Game Development</td><td>1</td><td>16</td></tr><tr><td>Dutch BlackBerry Development Group</td><td>1</td><td>7</td></tr><tr><td>Appsterdam at Waag Open Space</td><td>1</td><td>35</td></tr><tr><td>Appsterdam Family Weekend: Utrecht Walking Tour!</td><td>1</td><td>26</td></tr><tr><td>Appsterdam Guru Session: iOS/Mac Security Lab</td><td>1</td><td>4</td></tr><tr><td>Appsterdam Guru Session: User Experience Design</td><td>1</td><td>24</td></tr><tr><td>Mdevcon Conference</td><td>1</td><td>44</td></tr><tr><td>Dom Sagolla @ WWLL !</td><td>1</td><td>57</td></tr><tr><td>Appsterdam Family Weekend: Cooking Class!</td><td>1</td><td>18</td></tr><tr><td>Appsterdam Guru Session: Design Prototyping Tools</td><td>1</td><td>17</td></tr><tr><td>Appsterdam & Waag Open Space event</td><td>1</td><td>40</td></tr><tr><td>Appsterdam Guru Sessions: iOS Notifications and Network Polling</td><td>1</td><td>20</td></tr><tr><td>Last minute: The Nerd Boiler - Finnish sauna</td><td>1</td><td>6</td></tr><tr><td>Appsterdam Guru Session: Windows Phone from Scratch</td><td>1</td><td>19</td></tr><tr><td>TU Delft App competition</td><td>1</td><td>24</td></tr><tr><td>StartupBus Europe kick-off party powered by Startupbootcamp and Atlassian</td><td>1</td><td>19</td></tr><tr><td>Session 2: create new mobile concepts with KPN API</td><td>1</td><td>14</td></tr><tr><td>Appsterdam Guru Session: Design for Apps!</td><td>1</td><td>17</td></tr><tr><td>Droidcon.nl</td><td>2</td><td>9</td></tr><tr><td>Session 1: create new mobile concepts with KPN API</td><td>1</td><td>12</td></tr><tr><td>21/11 'Appsterdam & Waag Open Space' Launch event</td><td>1</td><td>28</td></tr><tr><td>Appsterdam Guru Session: Isometric engine for Android games!</td><td>1</td><td>6</td></tr><tr><td>Appsterdam Launch Party 2.0 Family Potluck Brunch, sponsored by Boven de Balie</td><td>1</td><td>62</td></tr><tr><td>Appsterdam Launch Party 2.0 Overwinter: Museumnacht, sponsored by SoftLayer</td><td>1</td><td>42</td></tr><tr><td>Appsterdam Launch Party 2.0 Overwinter Keynote, sponsored by Sogeti & IceMobile</td><td>1</td><td>245</td></tr><tr><td>Appsterdam Launch Party 2.0 Overwinter Meeten en Drinken, sponsored by Microsoft</td><td>1</td><td>117</td></tr><tr><td>Amsterdam Film Week + ticket raffle</td><td>1</td><td>14</td></tr><tr><td>Appsterdam Guru Session: Business Model Canvas</td><td>1</td><td>20</td></tr><tr><td>Meet the Makers 2: Appsterdam Delft</td><td>1</td><td>79</td></tr><tr><td>Appsterdam Guru Session: Android From Scratch</td><td>1</td><td>23</td></tr><tr><td>Monthly Meeten en Drinken Delft</td><td>1</td><td>5</td></tr><tr><td>Appsterdam Operation Anthill Legal Summit, Hosted By The Waag Society</td><td>1</td><td>32</td></tr><tr><td>Weekly Meeten en Drinken Delft</td><td>9</td><td>3</td></tr><tr><td>Appsterdam Family Weekend @ De Hortus Botanicus</td><td>1</td><td>8</td></tr><tr><td>Meet The Makers</td><td>3</td><td>23</td></tr><tr><td>Appsterdam at PICNIC - Hackathon!</td><td>2</td><td>21</td></tr><tr><td>Appsterdam Family Weekend picnic @ Het Vondelpark</td><td>1</td><td>11</td></tr><tr><td>SPING villa Vrijenban Hangout</td><td>21</td><td>2</td></tr><tr><td>Meet the Makers: Appsterdam Delft</td><td>1</td><td>30</td></tr><tr><td>NDSM-Werf Hangout</td><td>2</td><td>3</td></tr><tr><td>Appsterdam Family Weekend with LIVE music @ De Hortus Botanicus</td><td>1</td><td>8</td></tr><tr><td>NDSM Werf Hangout</td><td>12</td><td>4</td></tr><tr><td>Appsterdam Family Weekend @ NEMO Science Center</td><td>1</td><td>17</td></tr><tr><td>Meet the Makers</td><td>1</td><td>74</td></tr><tr><td>NDSM Special: Reggae Festival - Mobile cameramen invited</td><td>1</td><td>3</td></tr><tr><td>Appsterdam Guru Session: Test Driven Development</td><td>1</td><td>21</td></tr><tr><td>First Meeten & Drinken - Appsterdam Delft</td><td>1</td><td>13</td></tr><tr><td>We meet, drink beer en talk about PICNIC2011</td><td>1</td><td>14</td></tr><tr><td>NDSM Werf Hangout trial</td><td>1</td><td>3</td></tr><tr><td>Let's discuss what we want out of the Group.</td><td>1</td><td>18</td></tr></table>
 
 ## 2024 Statistics
 
-|Event|Count|Average Attendees
-|---|---|---|
-|Weekly Meeten en Drinken|7|4|
-|Coffee Coding|6|4|
-|Weekend Fun|2|7|
-
+<table><tr><th>Event</th><th>Count</th><th>Average Attendees</th></tr><tr><td>Weekly Meeten en Drinken</td><td>7</td><td>4</td></tr><tr><td>Coffee Coding</td><td>6</td><td>4</td></tr><tr><td>Weekend Fun</td><td>2</td><td>7</td></tr></table>
 
 ## 2023 Statistics
 
-|Event|Count|Average Attendees
-|---|---|---|
-|Coffee Coding|62|7|
-|Weekly Meeten en Drinken|61|6|
-|Code Buffet v2.0|1|10|
-|Weekend Fun|8|6|
-|Your resume ends up in the pile, you do this to avoid it [for app developers]|1|24|
-|Neural Networks and Chill: A Casual Meet-up for AI and ML Enthusiasts|1|5|
-|Landing on a app job in Holland, tips & tricks|1|27|
-|Appsterdam @ AppDevCon|1|6|
-|Fem-tech: Inspiring talks about Women in tech & networking event|1|63|
-|Appsterdam Boat Tour (AppDevcon + EndpointCon)|1|3|
-|Landing on a job in Holland, tips & tricks|1|63|
-
+<table><tr><th>Event</th><th>Count</th><th>Average Attendees</th></tr><tr><td>Coffee Coding</td><td>62</td><td>7</td></tr><tr><td>Weekly Meeten en Drinken</td><td>61</td><td>6</td></tr><tr><td>Code Buffet v2.0</td><td>1</td><td>10</td></tr><tr><td>Weekend Fun</td><td>8</td><td>6</td></tr><tr><td>Your resume ends up in the pile, you do this to avoid it [for app developers]</td><td>1</td><td>24</td></tr><tr><td>Neural Networks and Chill: A Casual Meet-up for AI and ML Enthusiasts</td><td>1</td><td>5</td></tr><tr><td>Landing on a app job in Holland, tips & tricks</td><td>1</td><td>27</td></tr><tr><td>Appsterdam @ AppDevCon</td><td>1</td><td>6</td></tr><tr><td>Fem-tech: Inspiring talks about Women in tech & networking event</td><td>1</td><td>63</td></tr><tr><td>Appsterdam Boat Tour (AppDevcon + EndpointCon)</td><td>1</td><td>3</td></tr><tr><td>Landing on a job in Holland, tips & tricks</td><td>1</td><td>63</td></tr></table>
 
 ## 2022 Statistics
 
-|Event|Count|Average Attendees
-|---|---|---|
-|Coffee Coding|64|7|
-|Weekly Meeten en Drinken|51|6|
-|Code Buffet |1|17|
-| Flutter Quick Start|1|28|
-|Weekend Fun|4|6|
-|Appsterdam Business Chat|40|2|
-|Gamestate|1|5|
-|Appsterdam @ APPDEVCON + APPRIL|1|6|
-|WWDC Keynote Watch Party|1|10|
-
+<table><tr><th>Event</th><th>Count</th><th>Average Attendees</th></tr><tr><td>Coffee Coding</td><td>64</td><td>7</td></tr><tr><td>Weekly Meeten en Drinken</td><td>51</td><td>6</td></tr><tr><td>Code Buffet </td><td>1</td><td>17</td></tr><tr><td> Flutter Quick Start</td><td>1</td><td>28</td></tr><tr><td>Weekend Fun</td><td>4</td><td>6</td></tr><tr><td>Appsterdam Business Chat</td><td>40</td><td>2</td></tr><tr><td>Gamestate</td><td>1</td><td>5</td></tr><tr><td>Appsterdam @ APPDEVCON + APPRIL</td><td>1</td><td>6</td></tr><tr><td>WWDC Keynote Watch Party</td><td>1</td><td>10</td></tr></table>
 
 ## 2021 Statistics
 
-|Event|Count|Average Attendees
-|---|---|---|
-|Appsterdam Business Chat|61|2|
-|Meeten en Drinken (Saturday edition)|4|3|
-|Coffee Coding|51|4|
-|Weekend Fun|1|6|
-|Weekly Meeten en Drinken|45|4|
-|Weekly Meeten en (Day) Drinken|3|1|
-
+<table><tr><th>Event</th><th>Count</th><th>Average Attendees</th></tr><tr><td>Appsterdam Business Chat</td><td>61</td><td>2</td></tr><tr><td>Meeten en Drinken (Saturday edition)</td><td>4</td><td>3</td></tr><tr><td>Coffee Coding</td><td>51</td><td>4</td></tr><tr><td>Weekend Fun</td><td>1</td><td>6</td></tr><tr><td>Weekly Meeten en Drinken</td><td>45</td><td>4</td></tr><tr><td>Weekly Meeten en (Day) Drinken</td><td>3</td><td>1</td></tr></table>
 
 ## 2020 Statistics
 
-|Event|Count|Average Attendees
-|---|---|---|
-|Appsterdam Business Chat|38|2|
-|Coffee Coding|30|5|
-|Weekly Meeten en Drinken|35|4|
-|Rethinking Race|1|7|
-|Meeten en Drinken - BAX REBOOT edition |1|6|
-|appsterrun|17|1|
-|Virtual Bax - Zoom Edition|1|9|
-|Formal Friday|1|5|
-
+<table><tr><th>Event</th><th>Count</th><th>Average Attendees</th></tr><tr><td>Appsterdam Business Chat</td><td>38</td><td>2</td></tr><tr><td>Coffee Coding</td><td>30</td><td>5</td></tr><tr><td>Weekly Meeten en Drinken</td><td>35</td><td>4</td></tr><tr><td>Rethinking Race</td><td>1</td><td>7</td></tr><tr><td>Meeten en Drinken - BAX REBOOT edition </td><td>1</td><td>6</td></tr><tr><td>appsterrun</td><td>17</td><td>1</td></tr><tr><td>Virtual Bax - Zoom Edition</td><td>1</td><td>9</td></tr><tr><td>Formal Friday</td><td>1</td><td>5</td></tr></table>
 
 ## 2019 Statistics
 
-|Event|Count|Average Attendees
-|---|---|---|
-|Coffee Coding|17|7|
-|Weekly Meeten en Drinken|51|4|
-|Appsterdam Business Chat|28|3|
-|Formal Friday for Founders|1|12|
-|Appsterdam Peer Lab|32|3|
-|Appsterdam Business Chat - Special Edition #Deepfakes!|1|5|
-|Appsterdam Game Night|8|7|
-
+<table><tr><th>Event</th><th>Count</th><th>Average Attendees</th></tr><tr><td>Coffee Coding</td><td>17</td><td>7</td></tr><tr><td>Weekly Meeten en Drinken</td><td>51</td><td>4</td></tr><tr><td>Appsterdam Business Chat</td><td>28</td><td>3</td></tr><tr><td>Formal Friday for Founders</td><td>1</td><td>12</td></tr><tr><td>Appsterdam Peer Lab</td><td>32</td><td>3</td></tr><tr><td>Appsterdam Business Chat - Special Edition #Deepfakes!</td><td>1</td><td>5</td></tr><tr><td>Appsterdam Game Night</td><td>8</td><td>7</td></tr></table>
 
 ## 2018 Statistics
 
-|Event|Count|Average Attendees
-|---|---|---|
-|Appsterdam Peer Lab|52|4|
-|Weekly Meeten en Drinken|51|5|
-|Appsterdam Business Chat|36|3|
-|Appsterdam Game Night|2|11|
-|Appsterdam Chat: Meet the blockchain-based peer-to-peer energy trading community|1|18|
-|Appsterdam Business Chat - What is the future of hackathons?|1|6|
-
+<table><tr><th>Event</th><th>Count</th><th>Average Attendees</th></tr><tr><td>Appsterdam Peer Lab</td><td>52</td><td>4</td></tr><tr><td>Weekly Meeten en Drinken</td><td>51</td><td>5</td></tr><tr><td>Appsterdam Business Chat</td><td>36</td><td>3</td></tr><tr><td>Appsterdam Game Night</td><td>2</td><td>11</td></tr><tr><td>Appsterdam Chat: Meet the blockchain-based peer-to-peer energy trading community</td><td>1</td><td>18</td></tr><tr><td>Appsterdam Business Chat - What is the future of hackathons?</td><td>1</td><td>6</td></tr></table>
 
 ## 2017 Statistics
 
-|Event|Count|Average Attendees
-|---|---|---|
-|Appsterdam Peer Lab|49|4|
-|Weekly Meeten en Drinken|51|6|
-|Appsterdam Business Chat|18|5|
-|Appsterdam Business Chat - Tech Savvy Farming|1|23|
-|Appsterdam Lunch Event|19|4|
-|Appsterdam @ Appdevcon 2017|1|13|
-|Appsterdam Lunch Event Special AppDevCon Speaker|1|13|
-|Special Lecture - What Makes The Amsterdam Startup Ecosystem So Special?|1|7|
-
+<table><tr><th>Event</th><th>Count</th><th>Average Attendees</th></tr><tr><td>Appsterdam Peer Lab</td><td>49</td><td>4</td></tr><tr><td>Weekly Meeten en Drinken</td><td>51</td><td>6</td></tr><tr><td>Appsterdam Business Chat</td><td>18</td><td>5</td></tr><tr><td>Appsterdam Business Chat - Tech Savvy Farming</td><td>1</td><td>23</td></tr><tr><td>Appsterdam Lunch Event</td><td>19</td><td>4</td></tr><tr><td>Appsterdam @ Appdevcon 2017</td><td>1</td><td>13</td></tr><tr><td>Appsterdam Lunch Event Special AppDevCon Speaker</td><td>1</td><td>13</td></tr><tr><td>Special Lecture - What Makes The Amsterdam Startup Ecosystem So Special?</td><td>1</td><td>7</td></tr></table>
 
 ## 2016 Statistics
 
-|Event|Count|Average Attendees
-|---|---|---|
-|Weekly Meeten en Drinken|49|7|
-|Appsterdam Lunch Event|23|6|
-|Appsterdam Peer Lab|47|5|
-|Coding x Journalism|1|26|
-|The Triggi Discovery Day|1|33|
-|Appsterdam Lunch Event - A Brief History of Artificial Intelligence|1|20|
-|Appsterdam Lunch Event - How Do Patents Power Your Startup?|1|15|
-|Appsterdam Lunch Event - Building Mega Groovy Features|1|11|
-|Stedelijk Museum Special Nerderlands tour|1|13|
-|Drone film night curated by Eddie Codel - Nerderlands edition|1|81|
-|Guru Session: Data Driven Storytelling (Nerderlands edition)|1|48|
-|Appsterdam Meeten en Drinken - Nerderlands edition|1|33|
-|Wednesday Lecture with Eddie Codel - Nerderlands Edition|1|29|
-|Nerderlands-Marineterrein-Makerversity sneak preview!|1|27|
-|Weekly Wednesday Lunchtime Lectures|11|9|
-|Appsterdam 5-Year Birthday Meeten en Drinken|1|25|
-|Pitch Club @ A Lab [Special Anniversary Edition]|1|12|
-|Pitch Club @ Appril|1|5|
-|Appsterdammers @ Mdevcon 2016!|1|22|
-|Pitch Club|3|5|
-|Special WWLL: Tracking @Human Activity In Smart Cities|1|30|
-
+<table><tr><th>Event</th><th>Count</th><th>Average Attendees</th></tr><tr><td>Weekly Meeten en Drinken</td><td>49</td><td>7</td></tr><tr><td>Appsterdam Lunch Event</td><td>23</td><td>6</td></tr><tr><td>Appsterdam Peer Lab</td><td>47</td><td>5</td></tr><tr><td>Coding x Journalism</td><td>1</td><td>26</td></tr><tr><td>The Triggi Discovery Day</td><td>1</td><td>33</td></tr><tr><td>Appsterdam Lunch Event - A Brief History of Artificial Intelligence</td><td>1</td><td>20</td></tr><tr><td>Appsterdam Lunch Event - How Do Patents Power Your Startup?</td><td>1</td><td>15</td></tr><tr><td>Appsterdam Lunch Event - Building Mega Groovy Features</td><td>1</td><td>11</td></tr><tr><td>Stedelijk Museum Special Nerderlands tour</td><td>1</td><td>13</td></tr><tr><td>Drone film night curated by Eddie Codel - Nerderlands edition</td><td>1</td><td>81</td></tr><tr><td>Guru Session: Data Driven Storytelling (Nerderlands edition)</td><td>1</td><td>48</td></tr><tr><td>Appsterdam Meeten en Drinken - Nerderlands edition</td><td>1</td><td>33</td></tr><tr><td>Wednesday Lecture with Eddie Codel - Nerderlands Edition</td><td>1</td><td>29</td></tr><tr><td>Nerderlands-Marineterrein-Makerversity sneak preview!</td><td>1</td><td>27</td></tr><tr><td>Weekly Wednesday Lunchtime Lectures</td><td>11</td><td>9</td></tr><tr><td>Appsterdam 5-Year Birthday Meeten en Drinken</td><td>1</td><td>25</td></tr><tr><td>Pitch Club @ A Lab [Special Anniversary Edition]</td><td>1</td><td>12</td></tr><tr><td>Pitch Club @ Appril</td><td>1</td><td>5</td></tr><tr><td>Appsterdammers @ Mdevcon 2016!</td><td>1</td><td>22</td></tr><tr><td>Pitch Club</td><td>3</td><td>5</td></tr><tr><td>Special WWLL: Tracking @Human Activity In Smart Cities</td><td>1</td><td>30</td></tr></table>
 
 ## 2015 Statistics
 
-|Event|Count|Average Attendees
-|---|---|---|
-|Weekly Meeten en Drinken|52|8|
-|Appsterdam Peer Lab|48|5|
-|Special WWLL: "If it ain't broke, don't Fixxx it"|1|23|
-|Weekly Wednesday Lunchtime Lectures|41|9|
-|Pitch Club|12|4|
-|Special N8 Guru Session!|1|31|
-|Opening! Appsterdam N8 Hackathon|1|65|
-|Mobile Apps Workbench|1|16|
-|Weekly Wednesday Lunchtime Lecture|1|6|
-|Appsterdam Smart City Hackathon|1|72|
-|GetDNS TNW2015 Hackathon|1|14|
-|Toon Open Hackathon - March 6th – 8th|1|73|
-|Appsterdam Peer Lab @ mdevcon|1|11|
-|Monthly Speaker Training Meeting|1|4|
-
+<table><tr><th>Event</th><th>Count</th><th>Average Attendees</th></tr><tr><td>Weekly Meeten en Drinken</td><td>52</td><td>8</td></tr><tr><td>Appsterdam Peer Lab</td><td>48</td><td>5</td></tr><tr><td>Special WWLL: "If it ain't broke, don't Fixxx it"</td><td>1</td><td>23</td></tr><tr><td>Weekly Wednesday Lunchtime Lectures</td><td>41</td><td>9</td></tr><tr><td>Pitch Club</td><td>12</td><td>4</td></tr><tr><td>Special N8 Guru Session!</td><td>1</td><td>31</td></tr><tr><td>Opening! Appsterdam N8 Hackathon</td><td>1</td><td>65</td></tr><tr><td>Mobile Apps Workbench</td><td>1</td><td>16</td></tr><tr><td>Weekly Wednesday Lunchtime Lecture</td><td>1</td><td>6</td></tr><tr><td>Appsterdam Smart City Hackathon</td><td>1</td><td>72</td></tr><tr><td>GetDNS TNW2015 Hackathon</td><td>1</td><td>14</td></tr><tr><td>Toon Open Hackathon - March 6th – 8th</td><td>1</td><td>73</td></tr><tr><td>Appsterdam Peer Lab @ mdevcon</td><td>1</td><td>11</td></tr><tr><td>Monthly Speaker Training Meeting</td><td>1</td><td>4</td></tr></table>
 
 ## 2014 Statistics
 
-|Event|Count|Average Attendees
-|---|---|---|
-|Appsterdam Peer Lab|50|5|
-|Weekly Meeten en Drinken|50|8|
-|Pitch Club|11|8|
-|Guru Session: “I have an idea for an app” - Part 2|1|11|
-|Wednesday Lunchtime Lecture|1|9|
-|KPMG Drop-in Dr. Session|10|15|
-|Guru Session: “I have an idea for an app” - Part 1|1|35|
-|Appsterdam Guru Session: Introduction to iOS programming with Swift|1|21|
-|Most responsible app award contest.|1|44|
-|iBeacon Experience Days|1|180|
-|Appsterdam Guru Session: HTML5 App Camp|1|7|
-|Appsterdam Summer Drink|1|65|
-|Guru Session, StartupWeekend Edition! Hands-on with Google Cloud Platform|1|26|
-|Monthly Speaker Training Meeting|5|5|
-|Appsterdam Guru Session: Introduction to Gestures on iOS|1|7|
-|Weekly Wednesday Lunchtime Lectures|23|16|
-|Appsterdam Salesforce1 Hackathon|1|29|
-|Tin Men and the Telephone - Apps and Jazz|1|11|
-|Google Cloud Platform Developer Roadshow|1|35|
-|Arduino Show and Tell|1|24|
-|DEMO DAY - Leap Motion and Oculus Rift|1|56|
-|Weekend Fun - Let's go to Artis Zoo!|1|9|
-|Appsterdam @ mdevcon|1|29|
-|Appsterdam Guru Session: Automatic testing using Calabash on iPhone and Android|1|18|
-|Appsterdam in Germany! Let's have a kohlfahrt!|1|23|
-|Meet the Makers: Game Changers|1|36|
-|Appsterdam Guru Session: Open Data for Android|1|16|
-|iBeacon Discovery day at A-Lab|1|40|
-|New Year's Drink|1|119|
-
+<table><tr><th>Event</th><th>Count</th><th>Average Attendees</th></tr><tr><td>Appsterdam Peer Lab</td><td>50</td><td>5</td></tr><tr><td>Weekly Meeten en Drinken</td><td>50</td><td>8</td></tr><tr><td>Pitch Club</td><td>11</td><td>8</td></tr><tr><td>Guru Session: “I have an idea for an app” - Part 2</td><td>1</td><td>11</td></tr><tr><td>Wednesday Lunchtime Lecture</td><td>1</td><td>9</td></tr><tr><td>KPMG Drop-in Dr. Session</td><td>10</td><td>15</td></tr><tr><td>Guru Session: “I have an idea for an app” - Part 1</td><td>1</td><td>35</td></tr><tr><td>Appsterdam Guru Session: Introduction to iOS programming with Swift</td><td>1</td><td>21</td></tr><tr><td>Most responsible app award contest.</td><td>1</td><td>44</td></tr><tr><td>iBeacon Experience Days</td><td>1</td><td>180</td></tr><tr><td>Appsterdam Guru Session: HTML5 App Camp</td><td>1</td><td>7</td></tr><tr><td>Appsterdam Summer Drink</td><td>1</td><td>65</td></tr><tr><td>Guru Session, StartupWeekend Edition! Hands-on with Google Cloud Platform</td><td>1</td><td>26</td></tr><tr><td>Monthly Speaker Training Meeting</td><td>5</td><td>5</td></tr><tr><td>Appsterdam Guru Session: Introduction to Gestures on iOS</td><td>1</td><td>7</td></tr><tr><td>Weekly Wednesday Lunchtime Lectures</td><td>23</td><td>16</td></tr><tr><td>Appsterdam Salesforce1 Hackathon</td><td>1</td><td>29</td></tr><tr><td>Tin Men and the Telephone - Apps and Jazz</td><td>1</td><td>11</td></tr><tr><td>Google Cloud Platform Developer Roadshow</td><td>1</td><td>35</td></tr><tr><td>Arduino Show and Tell</td><td>1</td><td>24</td></tr><tr><td>DEMO DAY - Leap Motion and Oculus Rift</td><td>1</td><td>56</td></tr><tr><td>Weekend Fun - Let's go to Artis Zoo!</td><td>1</td><td>9</td></tr><tr><td>Appsterdam @ mdevcon</td><td>1</td><td>29</td></tr><tr><td>Appsterdam Guru Session: Automatic testing using Calabash on iPhone and Android</td><td>1</td><td>18</td></tr><tr><td>Appsterdam in Germany! Let's have a kohlfahrt!</td><td>1</td><td>23</td></tr><tr><td>Meet the Makers: Game Changers</td><td>1</td><td>36</td></tr><tr><td>Appsterdam Guru Session: Open Data for Android</td><td>1</td><td>16</td></tr><tr><td>iBeacon Discovery day at A-Lab</td><td>1</td><td>40</td></tr><tr><td>New Year's Drink</td><td>1</td><td>119</td></tr></table>
 
 ## 2013 Statistics
 
-|Event|Count|Average Attendees
-|---|---|---|
-|Annual Appsterdam Holiday Gathering|1|32|
-|Appsterdam Peer Lab|22|8|
-|Weekly Meeten en Drinken|50|10|
-|Weekly Wednesday Lunchtime Lectures|48|22|
-|Pitch Club|11|17|
-|Monthly Speaker Training Meeting|7|6|
-|NFC Sneak Preview at Startupbootcamp|1|20|
-|Appsterdam Guru Session: iOS for Beginners|1|24|
-|NSHipster Pub Quiz|1|20|
-|Ask Mattt Anything...|1|19|
-|"Speurtocht" (scavenger hunt) at A Lab|1|35|
-|Appsterdam HQ Housewarming Party!|1|109|
-|Appsterdam Bike Brigade|6|5|
-|Appsterdam HQ Sneak Peek|1|12|
-|Implement open parking data w/ Dutch government|1|10|
-|Appsterdam Bike Brigade: Haarlem Tour|1|11|
-|Appsterdam Summer Fun: Picnic Boat trip!|1|15|
-|Appsterdam Guru Session: Google App Engine for Beginners|1|16|
-|Appsterdam Bike Bridgade|4|4|
-|Appsterdam @ GOTO Amsterdam 2013|1|17|
-|Open Hardware Documentation Jam|1|24|
-|Appsterdam Birthday: Volunteer Appreciation "Hangover" Brunch|1|45|
-|Appsterdam Birthday: We're 2!|1|117|
-|The Waag and Waag Society Fablab|1|21|
-|Appsterdam Bike Tour|1|7|
-|DIY GPS City Tours|1|11|
-|The secrets of Pathé Tuschinski|1|20|
-|Meet the Makers: Glimworm IT|1|22|
-|Appsterdam Monthly Game Day!|4|13|
-|Apps zijn de nieuwe media (Apps are new media)|1|21|
-|Weekend Fun|3|19|
-|Appsterdam @ mdevcon|1|36|
-|Appsterdam in Germany! Let's have a kohlfahrt!|1|23|
-|Get ready...to launch!|1|60|
-|Guru Session: D3 Datavisualization Hackathon!|1|20|
-|Appsterdam Guru Session: App Marketing Best Practices|1|26|
-
+<table><tr><th>Event</th><th>Count</th><th>Average Attendees</th></tr><tr><td>Annual Appsterdam Holiday Gathering</td><td>1</td><td>32</td></tr><tr><td>Appsterdam Peer Lab</td><td>22</td><td>8</td></tr><tr><td>Weekly Meeten en Drinken</td><td>50</td><td>10</td></tr><tr><td>Weekly Wednesday Lunchtime Lectures</td><td>48</td><td>22</td></tr><tr><td>Pitch Club</td><td>11</td><td>17</td></tr><tr><td>Monthly Speaker Training Meeting</td><td>7</td><td>6</td></tr><tr><td>NFC Sneak Preview at Startupbootcamp</td><td>1</td><td>20</td></tr><tr><td>Appsterdam Guru Session: iOS for Beginners</td><td>1</td><td>24</td></tr><tr><td>NSHipster Pub Quiz</td><td>1</td><td>20</td></tr><tr><td>Ask Mattt Anything...</td><td>1</td><td>19</td></tr><tr><td>"Speurtocht" (scavenger hunt) at A Lab</td><td>1</td><td>35</td></tr><tr><td>Appsterdam HQ Housewarming Party!</td><td>1</td><td>109</td></tr><tr><td>Appsterdam Bike Brigade</td><td>6</td><td>5</td></tr><tr><td>Appsterdam HQ Sneak Peek</td><td>1</td><td>12</td></tr><tr><td>Implement open parking data w/ Dutch government</td><td>1</td><td>10</td></tr><tr><td>Appsterdam Bike Brigade: Haarlem Tour</td><td>1</td><td>11</td></tr><tr><td>Appsterdam Summer Fun: Picnic Boat trip!</td><td>1</td><td>15</td></tr><tr><td>Appsterdam Guru Session: Google App Engine for Beginners</td><td>1</td><td>16</td></tr><tr><td>Appsterdam Bike Bridgade</td><td>4</td><td>4</td></tr><tr><td>Appsterdam @ GOTO Amsterdam 2013</td><td>1</td><td>17</td></tr><tr><td>Open Hardware Documentation Jam</td><td>1</td><td>24</td></tr><tr><td>Appsterdam Birthday: Volunteer Appreciation "Hangover" Brunch</td><td>1</td><td>45</td></tr><tr><td>Appsterdam Birthday: We're 2!</td><td>1</td><td>117</td></tr><tr><td>The Waag and Waag Society Fablab</td><td>1</td><td>21</td></tr><tr><td>Appsterdam Bike Tour</td><td>1</td><td>7</td></tr><tr><td>DIY GPS City Tours</td><td>1</td><td>11</td></tr><tr><td>The secrets of Pathé Tuschinski</td><td>1</td><td>20</td></tr><tr><td>Meet the Makers: Glimworm IT</td><td>1</td><td>22</td></tr><tr><td>Appsterdam Monthly Game Day!</td><td>4</td><td>13</td></tr><tr><td>Apps zijn de nieuwe media (Apps are new media)</td><td>1</td><td>21</td></tr><tr><td>Weekend Fun</td><td>3</td><td>19</td></tr><tr><td>Appsterdam @ mdevcon</td><td>1</td><td>36</td></tr><tr><td>Appsterdam in Germany! Let's have a kohlfahrt!</td><td>1</td><td>23</td></tr><tr><td>Get ready...to launch!</td><td>1</td><td>60</td></tr><tr><td>Guru Session: D3 Datavisualization Hackathon!</td><td>1</td><td>20</td></tr><tr><td>Appsterdam Guru Session: App Marketing Best Practices</td><td>1</td><td>26</td></tr></table>
 
 ## 2012 Statistics
 
-|Event|Count|Average Attendees
-|---|---|---|
-|Weekly Meeten en Drinken|51|12|
-|Monthly Speaker Training Meeting|11|7|
-|Appsterdam Family Weekend: Holiday Gathering|1|11|
-|Appsterdam Guru Session: Data mining with R|2|21|
-|Appsterdam Guru Session: Hands-on Android porting lab to BlackBerry|1|5|
-|Weekly Legal & Business Q&A|3|3|
-|Weekly Wednesday Lunchtime Lectures|48|22|
-|Pitch Club|4|16|
-|'Vaporware to Makerware' Featuring Appsterdam Genius Grant Recipient Whurley|1|36|
-|Appsterdam Monthly Game Day! Special Sinterklaas Edition!|1|17|
-|Guru Session: Programming for beginners|1|17|
-|Appsterdam Brainstorm Day - Letterkundig Museum|1|18|
-|Appsterdam Delft: Investors|1|53|
-|Appreneur Day|1|11|
-|Appsterdam Family Weekend: Dutch Trivia Game|1|18|
-|Get your legal and/or tax questions answered|1|7|
-|Perfect Storm Europe - Day 1/2|1|35|
-|Guru Session: Android Design Patterns (and tools!)|1|16|
-|Guru Session: Rails API for Mobile Developers!|1|9|
-|Guru Session: Smalltalk Programming with Spoon|1|11|
-|Appsterdam Monthly Game Day!|1|4|
-|Appsterdam Guru Session: iOS for Beginners|2|19|
-|Appsterdam Guru Session: Build your web API on Softlayer and Drupal|1|14|
-|Pitch Contest @ #PICNIC12 App Ecosystem Tent|1|11|
-|Data Visualization workshop by the InnoViz team at #PICNIC12|2|18|
-|Speed Networking Day 2 @ #PICNIC12 App Ecosystem Tent|1|18|
-|Big Nerd Ranch Guru Session @ #PICNIC12 - Beyond Touch: Attitudes in Motion|1|10|
-|Urban Ecosystem CyclingTour @ #PICNIC12 App Ecosystem Tent- Day 2, morning|1|3|
-|App Ecosystem Tent @ #PICNIC12 - Day 2|1|50|
-|Speed Networking Day 1 @ #PICNIC12 App Ecosystem Tent|1|20|
-|Urban Ecosystem CyclingTour @ #PICNIC12 App Ecosystem Tent- Day 1, morning|1|3|
-|COSM Guru Session @ App Ecosystem Tent, #PICNIC12|1|11|
-|App Ecosystem Tent @ #PICNIC12 - Day 1|1|70|
-|Appsterdam Family Weekend: Picnic in Artis Zoo!|1|25|
-|PICNIC App Ecosystem Tent Volunteer Meeting|1|11|
-|Appsterdam Family Weekend: Boating Day!|1|24|
-|Appsterdam Summer Barbecue with Softlayer|1|63|
-|Appsterdam Guru Session: Blackberry Dev using HTML5|1|5|
-|PICNIC Tent Volunteer Roundup|1|15|
-|Appsterdam Guru Session: Movie Editing and Scoring|1|12|
-|Appsterdam Family Weekend: Game Day!|6|12|
-|Appsterdam Guru Session: Scrum/Agile Introduction - Sprint 0!|1|28|
-|Appsterdam Family Weekend: Rotterdam Walking Tour!|1|8|
-|iOSDevCamp Appsterdam Satellite!|1|54|
-|Appsterdam Guru Session: Maps and Location for iOS|1|18|
-|Appsterdam Speaker Club|1|16|
-|Appsterdam Guru Session: Let’s Play the Get Kanban Game (beta test)|1|8|
-|Help designing KPN's developer facing API portal july 2nd|1|4|
-|Appsterdam: How do I get involved?|1|46|
-|Appsterdam Family Weekend: Picnic at the beach!|1|9|
-|Apple WWDC Keynote|1|39|
-|Monthly Meeten & Drinken Appsterdam Delft|6|8|
-|Appsterdam@Waag Open Space: Apps & business models|1|55|
-|Engineers & Beers - Software Developers Meetup in the centre of Amsterdam|1|17|
-|Appsterdam Family Weekend: Historical Tram Tour|1|21|
-|Appsterdam Family Weekend: Amsterdamse Bos|1|12|
-|Appsterdam Guru Session: A hands-on introduction to MongoDB!|1|21|
-|Appsterdam at Waag Open Space hosted by Appril|1|30|
-|Review over Breakfast (Programming for Beginners!)|1|13|
-|Appsterdam Guru Session: Programming for Beginners!|1|27|
-|Appsterdam HQ Open House|1|108|
-|Appsterdam Delft - Meet the Makers: Growing pains|1|71|
-|Apps for Smart Cities|1|57|
-|Appsterdam Guru Session: Tools for Android Game Development|1|16|
-|Dutch BlackBerry Development Group|1|7|
-|Appsterdam at Waag Open Space|1|35|
-|Appsterdam Family Weekend: Utrecht Walking Tour!|1|26|
-|Appsterdam Guru Session: iOS/Mac Security Lab|1|4|
-|Appsterdam Guru Session: User Experience Design|1|24|
-|Mdevcon Conference|1|44|
-|Dom Sagolla @ WWLL !|1|57|
-|Appsterdam in Germany! Let's have a kohlfahrt!|1|16|
-|Appsterdam Family Weekend: Cooking Class!|1|18|
-|Appsterdam Guru Session: Design Prototyping Tools|1|17|
-|Appsterdam & Waag Open Space event|1|40|
-|Appsterdam Guru Sessions: iOS Notifications and Network Polling|1|20|
-
+<table><tr><th>Event</th><th>Count</th><th>Average Attendees</th></tr><tr><td>Weekly Meeten en Drinken</td><td>51</td><td>12</td></tr><tr><td>Monthly Speaker Training Meeting</td><td>11</td><td>7</td></tr><tr><td>Appsterdam Family Weekend: Holiday Gathering</td><td>1</td><td>11</td></tr><tr><td>Appsterdam Guru Session: Data mining with R</td><td>2</td><td>21</td></tr><tr><td>Appsterdam Guru Session: Hands-on Android porting lab to BlackBerry</td><td>1</td><td>5</td></tr><tr><td>Weekly Legal & Business Q&A</td><td>3</td><td>3</td></tr><tr><td>Weekly Wednesday Lunchtime Lectures</td><td>48</td><td>22</td></tr><tr><td>Pitch Club</td><td>4</td><td>16</td></tr><tr><td>'Vaporware to Makerware' Featuring Appsterdam Genius Grant Recipient Whurley</td><td>1</td><td>36</td></tr><tr><td>Appsterdam Monthly Game Day! Special Sinterklaas Edition!</td><td>1</td><td>17</td></tr><tr><td>Guru Session: Programming for beginners</td><td>1</td><td>17</td></tr><tr><td>Appsterdam Brainstorm Day - Letterkundig Museum</td><td>1</td><td>18</td></tr><tr><td>Appsterdam Delft: Investors</td><td>1</td><td>53</td></tr><tr><td>Appreneur Day</td><td>1</td><td>11</td></tr><tr><td>Appsterdam Family Weekend: Dutch Trivia Game</td><td>1</td><td>18</td></tr><tr><td>Get your legal and/or tax questions answered</td><td>1</td><td>7</td></tr><tr><td>Perfect Storm Europe - Day 1/2</td><td>1</td><td>35</td></tr><tr><td>Guru Session: Android Design Patterns (and tools!)</td><td>1</td><td>16</td></tr><tr><td>Guru Session: Rails API for Mobile Developers!</td><td>1</td><td>9</td></tr><tr><td>Guru Session: Smalltalk Programming with Spoon</td><td>1</td><td>11</td></tr><tr><td>Appsterdam Monthly Game Day!</td><td>1</td><td>4</td></tr><tr><td>Appsterdam Guru Session: iOS for Beginners</td><td>2</td><td>19</td></tr><tr><td>Appsterdam Guru Session: Build your web API on Softlayer and Drupal</td><td>1</td><td>14</td></tr><tr><td>Pitch Contest @ #PICNIC12 App Ecosystem Tent</td><td>1</td><td>11</td></tr><tr><td>Data Visualization workshop by the InnoViz team at #PICNIC12</td><td>2</td><td>18</td></tr><tr><td>Speed Networking Day 2 @ #PICNIC12 App Ecosystem Tent</td><td>1</td><td>18</td></tr><tr><td>Big Nerd Ranch Guru Session @ #PICNIC12 - Beyond Touch: Attitudes in Motion</td><td>1</td><td>10</td></tr><tr><td>Urban Ecosystem CyclingTour @ #PICNIC12 App Ecosystem Tent- Day 2, morning</td><td>1</td><td>3</td></tr><tr><td>App Ecosystem Tent @ #PICNIC12 - Day 2</td><td>1</td><td>50</td></tr><tr><td>Speed Networking Day 1 @ #PICNIC12 App Ecosystem Tent</td><td>1</td><td>20</td></tr><tr><td>Urban Ecosystem CyclingTour @ #PICNIC12 App Ecosystem Tent- Day 1, morning</td><td>1</td><td>3</td></tr><tr><td>COSM Guru Session @ App Ecosystem Tent, #PICNIC12</td><td>1</td><td>11</td></tr><tr><td>App Ecosystem Tent @ #PICNIC12 - Day 1</td><td>1</td><td>70</td></tr><tr><td>Appsterdam Family Weekend: Picnic in Artis Zoo!</td><td>1</td><td>25</td></tr><tr><td>PICNIC App Ecosystem Tent Volunteer Meeting</td><td>1</td><td>11</td></tr><tr><td>Appsterdam Family Weekend: Boating Day!</td><td>1</td><td>24</td></tr><tr><td>Appsterdam Summer Barbecue with Softlayer</td><td>1</td><td>63</td></tr><tr><td>Appsterdam Guru Session: Blackberry Dev using HTML5</td><td>1</td><td>5</td></tr><tr><td>PICNIC Tent Volunteer Roundup</td><td>1</td><td>15</td></tr><tr><td>Appsterdam Guru Session: Movie Editing and Scoring</td><td>1</td><td>12</td></tr><tr><td>Appsterdam Family Weekend: Game Day!</td><td>6</td><td>12</td></tr><tr><td>Appsterdam Guru Session: Scrum/Agile Introduction - Sprint 0!</td><td>1</td><td>28</td></tr><tr><td>Appsterdam Family Weekend: Rotterdam Walking Tour!</td><td>1</td><td>8</td></tr><tr><td>iOSDevCamp Appsterdam Satellite!</td><td>1</td><td>54</td></tr><tr><td>Appsterdam Guru Session: Maps and Location for iOS</td><td>1</td><td>18</td></tr><tr><td>Appsterdam Speaker Club</td><td>1</td><td>16</td></tr><tr><td>Appsterdam Guru Session: Let’s Play the Get Kanban Game (beta test)</td><td>1</td><td>8</td></tr><tr><td>Help designing KPN's developer facing API portal july 2nd</td><td>1</td><td>4</td></tr><tr><td>Appsterdam: How do I get involved?</td><td>1</td><td>46</td></tr><tr><td>Appsterdam Family Weekend: Picnic at the beach!</td><td>1</td><td>9</td></tr><tr><td>Apple WWDC Keynote</td><td>1</td><td>39</td></tr><tr><td>Monthly Meeten & Drinken Appsterdam Delft</td><td>6</td><td>8</td></tr><tr><td>Appsterdam@Waag Open Space: Apps & business models</td><td>1</td><td>55</td></tr><tr><td>Engineers & Beers - Software Developers Meetup in the centre of Amsterdam</td><td>1</td><td>17</td></tr><tr><td>Appsterdam Family Weekend: Historical Tram Tour</td><td>1</td><td>21</td></tr><tr><td>Appsterdam Family Weekend: Amsterdamse Bos</td><td>1</td><td>12</td></tr><tr><td>Appsterdam Guru Session: A hands-on introduction to MongoDB!</td><td>1</td><td>21</td></tr><tr><td>Appsterdam at Waag Open Space hosted by Appril</td><td>1</td><td>30</td></tr><tr><td>Review over Breakfast (Programming for Beginners!)</td><td>1</td><td>13</td></tr><tr><td>Appsterdam Guru Session: Programming for Beginners!</td><td>1</td><td>27</td></tr><tr><td>Appsterdam HQ Open House</td><td>1</td><td>108</td></tr><tr><td>Appsterdam Delft - Meet the Makers: Growing pains</td><td>1</td><td>71</td></tr><tr><td>Apps for Smart Cities</td><td>1</td><td>57</td></tr><tr><td>Appsterdam Guru Session: Tools for Android Game Development</td><td>1</td><td>16</td></tr><tr><td>Dutch BlackBerry Development Group</td><td>1</td><td>7</td></tr><tr><td>Appsterdam at Waag Open Space</td><td>1</td><td>35</td></tr><tr><td>Appsterdam Family Weekend: Utrecht Walking Tour!</td><td>1</td><td>26</td></tr><tr><td>Appsterdam Guru Session: iOS/Mac Security Lab</td><td>1</td><td>4</td></tr><tr><td>Appsterdam Guru Session: User Experience Design</td><td>1</td><td>24</td></tr><tr><td>Mdevcon Conference</td><td>1</td><td>44</td></tr><tr><td>Dom Sagolla @ WWLL !</td><td>1</td><td>57</td></tr><tr><td>Appsterdam in Germany! Let's have a kohlfahrt!</td><td>1</td><td>16</td></tr><tr><td>Appsterdam Family Weekend: Cooking Class!</td><td>1</td><td>18</td></tr><tr><td>Appsterdam Guru Session: Design Prototyping Tools</td><td>1</td><td>17</td></tr><tr><td>Appsterdam & Waag Open Space event</td><td>1</td><td>40</td></tr><tr><td>Appsterdam Guru Sessions: iOS Notifications and Network Polling</td><td>1</td><td>20</td></tr></table>
 
 ## 2011 Statistics
 
-|Event|Count|Average Attendees
-|---|---|---|
-|Weekly Meeten en Drinken|25|8|
-|Weekly Wednesday Lunchtime Lectures|17|22|
-|Appsterdam Family Weekend: Holiday Gathering|1|20|
-|Last minute: The Nerd Boiler - Finnish sauna|1|6|
-|Appsterdam Guru Session: Windows Phone from Scratch|1|19|
-|TU Delft App competition|1|24|
-|Monthly Meeten & Drinken Appsterdam Delft|2|4|
-|StartupBus Europe kick-off party powered by Startupbootcamp and Atlassian|1|19|
-|Session 2: create new mobile concepts with KPN API|1|14|
-|Appsterdam Guru Session: Design for Apps!|1|17|
-|Droidcon.nl|2|9|
-|Session 1: create new mobile concepts with KPN API|1|12|
-|21/11 'Appsterdam & Waag Open Space' Launch event|1|28|
-|Appsterdam Family Weekend: Game Day!|2|9|
-|Appsterdam Guru Session: Isometric engine for Android games!|1|6|
-|Appsterdam Launch Party 2.0 Family Potluck Brunch, sponsored by Boven de Balie|1|62|
-|Appsterdam Launch Party 2.0 Overwinter: Museumnacht, sponsored by SoftLayer|1|42|
-|Appsterdam Launch Party 2.0 Overwinter Keynote, sponsored by Sogeti & IceMobile|1|245|
-|Appsterdam Launch Party 2.0 Overwinter Meeten en Drinken, sponsored by Microsoft|1|117|
-|Amsterdam Film Week + ticket raffle|1|14|
-|Appsterdam Guru Session: Business Model Canvas|1|20|
-|Meet the Makers 2: Appsterdam Delft|1|79|
-|Appsterdam Guru Session: Android From Scratch|1|23|
-|Monthly Meeten en Drinken Delft|1|5|
-|Appsterdam Operation Anthill Legal Summit, Hosted By The Waag Society|1|32|
-|Weekly Meeten en Drinken Delft|9|3|
-|Appsterdam Family Weekend @ De Hortus Botanicus|1|8|
-|Meet The Makers|3|23|
-|Appsterdam at PICNIC - Hackathon!|2|21|
-|Appsterdam Family Weekend picnic @ Het Vondelpark|1|11|
-|SPING villa Vrijenban Hangout|21|2|
-|Meet the Makers: Appsterdam Delft|1|30|
-|NDSM-Werf Hangout|2|3|
-|Appsterdam Family Weekend with LIVE music @ De Hortus Botanicus|1|8|
-|NDSM Werf Hangout|12|4|
-|Appsterdam Family Weekend @ NEMO Science Center|1|17|
-|Meet the Makers|1|74|
-|NDSM Special: Reggae Festival - Mobile cameramen invited|1|3|
-|Appsterdam Guru Session: Test Driven Development|1|21|
-|First Meeten & Drinken - Appsterdam Delft|1|13|
-|We meet, drink beer en talk about PICNIC2011|1|14|
-|NDSM Werf Hangout trial|1|3|
-|Let's discuss what we want out of the Group.|1|18|
+<table><tr><th>Event</th><th>Count</th><th>Average Attendees</th></tr><tr><td>Weekly Meeten en Drinken</td><td>25</td><td>8</td></tr><tr><td>Weekly Wednesday Lunchtime Lectures</td><td>17</td><td>22</td></tr><tr><td>Appsterdam Family Weekend: Holiday Gathering</td><td>1</td><td>20</td></tr><tr><td>Last minute: The Nerd Boiler - Finnish sauna</td><td>1</td><td>6</td></tr><tr><td>Appsterdam Guru Session: Windows Phone from Scratch</td><td>1</td><td>19</td></tr><tr><td>TU Delft App competition</td><td>1</td><td>24</td></tr><tr><td>Monthly Meeten & Drinken Appsterdam Delft</td><td>2</td><td>4</td></tr><tr><td>StartupBus Europe kick-off party powered by Startupbootcamp and Atlassian</td><td>1</td><td>19</td></tr><tr><td>Session 2: create new mobile concepts with KPN API</td><td>1</td><td>14</td></tr><tr><td>Appsterdam Guru Session: Design for Apps!</td><td>1</td><td>17</td></tr><tr><td>Droidcon.nl</td><td>2</td><td>9</td></tr><tr><td>Session 1: create new mobile concepts with KPN API</td><td>1</td><td>12</td></tr><tr><td>21/11 'Appsterdam & Waag Open Space' Launch event</td><td>1</td><td>28</td></tr><tr><td>Appsterdam Family Weekend: Game Day!</td><td>2</td><td>9</td></tr><tr><td>Appsterdam Guru Session: Isometric engine for Android games!</td><td>1</td><td>6</td></tr><tr><td>Appsterdam Launch Party 2.0 Family Potluck Brunch, sponsored by Boven de Balie</td><td>1</td><td>62</td></tr><tr><td>Appsterdam Launch Party 2.0 Overwinter: Museumnacht, sponsored by SoftLayer</td><td>1</td><td>42</td></tr><tr><td>Appsterdam Launch Party 2.0 Overwinter Keynote, sponsored by Sogeti & IceMobile</td><td>1</td><td>245</td></tr><tr><td>Appsterdam Launch Party 2.0 Overwinter Meeten en Drinken, sponsored by Microsoft</td><td>1</td><td>117</td></tr><tr><td>Amsterdam Film Week + ticket raffle</td><td>1</td><td>14</td></tr><tr><td>Appsterdam Guru Session: Business Model Canvas</td><td>1</td><td>20</td></tr><tr><td>Meet the Makers 2: Appsterdam Delft</td><td>1</td><td>79</td></tr><tr><td>Appsterdam Guru Session: Android From Scratch</td><td>1</td><td>23</td></tr><tr><td>Monthly Meeten en Drinken Delft</td><td>1</td><td>5</td></tr><tr><td>Appsterdam Operation Anthill Legal Summit, Hosted By The Waag Society</td><td>1</td><td>32</td></tr><tr><td>Weekly Meeten en Drinken Delft</td><td>9</td><td>3</td></tr><tr><td>Appsterdam Family Weekend @ De Hortus Botanicus</td><td>1</td><td>8</td></tr><tr><td>Meet The Makers</td><td>3</td><td>23</td></tr><tr><td>Appsterdam at PICNIC - Hackathon!</td><td>2</td><td>21</td></tr><tr><td>Appsterdam Family Weekend picnic @ Het Vondelpark</td><td>1</td><td>11</td></tr><tr><td>SPING villa Vrijenban Hangout</td><td>21</td><td>2</td></tr><tr><td>Meet the Makers: Appsterdam Delft</td><td>1</td><td>30</td></tr><tr><td>NDSM-Werf Hangout</td><td>2</td><td>3</td></tr><tr><td>Appsterdam Family Weekend with LIVE music @ De Hortus Botanicus</td><td>1</td><td>8</td></tr><tr><td>NDSM Werf Hangout</td><td>12</td><td>4</td></tr><tr><td>Appsterdam Family Weekend @ NEMO Science Center</td><td>1</td><td>17</td></tr><tr><td>Meet the Makers</td><td>1</td><td>74</td></tr><tr><td>NDSM Special: Reggae Festival - Mobile cameramen invited</td><td>1</td><td>3</td></tr><tr><td>Appsterdam Guru Session: Test Driven Development</td><td>1</td><td>21</td></tr><tr><td>First Meeten & Drinken - Appsterdam Delft</td><td>1</td><td>13</td></tr><tr><td>We meet, drink beer en talk about PICNIC2011</td><td>1</td><td>14</td></tr><tr><td>NDSM Werf Hangout trial</td><td>1</td><td>3</td></tr><tr><td>Let's discuss what we want out of the Group.</td><td>1</td><td>18</td></tr></table>
 
 
-
-Generated on 2024-01-15 21:29:38 CET
+Generated on 2024-01-15 21:31:09 CET
 

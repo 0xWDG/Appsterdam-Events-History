@@ -135,15 +135,16 @@ Held at {$beginDate} at {$event->location_name} with {$event->attendees} Appster
 
 foreach ($stats['events'] as $eventYear => $events) {
     $index .= sprintf("\n\n## %s Statistics\n\n", ucfirst($eventYear));
-    $index .= "|Event|Count|Average Attendees\n|---|---|---|\n";
+    $index .= "<table><tr><th>Event</th><th>Count</th><th>Average Attendees</th></tr>";
     foreach ($events as $event => $count) {
         $avg = round($stats['attendees'][$eventYear][$event] / $count);
 
         // Skip events with only one occurance, or with an average of less than 2 attendees.
         if ($count > 1 || $avg > 2) {
-            $index .= "|{$event}|{$count}|{$avg}|\n";
+            $index .= "<tr><td>{$event}</td><td>{$count}</td><td>{$avg}</td></tr>";
         }
     }
+    $index .= "</table>";
 }
 
 $index .= sprintf("\n\n\nGenerated on %s\n\n", date('Y-m-d H:i:s T'));
