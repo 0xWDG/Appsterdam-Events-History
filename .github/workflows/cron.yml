@@ -1,5 +1,6 @@
 name: Re-Deploy website
 on:
+  workflow_dispatch:
   schedule:
     # Run every day of the week at 21:00 AMS Time
     - cron: '0 20 * * *'
