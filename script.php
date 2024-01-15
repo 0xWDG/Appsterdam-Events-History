@@ -27,7 +27,7 @@ foreach ($api_response as $year) {
 
     if (!isset($indexes[$year->name])) {
         $index .= sprintf("\n\n## %s", $year->name);
-        $index .= "\n<th><td>Event</td><td>Date</td><td>Location</td><td>Attendees</th></th>";
+        $index .= "\n<table><tr><th>Event</th><th>Date</th><th>Location</th><th>Attendees</th></tr>";
         $indexes[$year->name] = true;
     }
 
@@ -129,6 +129,8 @@ Held at {$beginDate} at {$event->location_name} with {$event->attendees} Appster
             $event->attendees
         );
     }
+
+    $index .= "</table>";
 }
 
 foreach ($stats['events'] as $eventYear => $events) {
