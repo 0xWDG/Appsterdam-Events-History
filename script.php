@@ -79,7 +79,7 @@ Held at {$beginDate} at {$event->location_name} with {$event->attendees} Appster
     }
 }
 
-$index = "\n\n\nGenerated on " . date('Y-m-d H:i:s T') . "\n\n";
+$index .= "\n\n\nGenerated on " . date('Y-m-d H:i:s T') . "\n\n";
 
 if (file_exists('Upcoming')) rmdir('Upcoming');
 file_put_contents('README.md', $index);
