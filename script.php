@@ -29,10 +29,10 @@ foreach ($api_response as $year) {
         $monthDir = ($year->name == 'Upcoming' ? date('Y') : $year->name) . '/' . substr($d[0], 4, 2);
         if (!file_exists($monthDir)) mkdir($monthDir);
 
-        $newEventName = preg_replace('/[^A-Za-z0-9_\- ]/', '_', $event->name);
+        $eventFilename = preg_replace('/[^A-Za-z0-9_\- ]/', '_', $event->name);
 
         // Set the file name (dd - eventname.md)
-        $filename = substr($d[0], 6, 2) . ' ' . $newEventName . '.md';
+        $filename = substr($d[0], 6, 2) . ' ' . $eventFilename . '.md';
 
         // Bad way to generate begin/end date.
         $beginDate = substr($d[0], 0, 4) . '-' . substr($d[0], 4, 2) . '-' . substr($d[0], 6, 2);
