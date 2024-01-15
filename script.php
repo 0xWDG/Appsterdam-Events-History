@@ -122,7 +122,7 @@ Held at {$beginDate} at {$event->location_name} with {$event->attendees} Appster
 
         $index .= sprintf(
             "|<a href='%s'>%s</a>|%s|%s|%s|\n",
-            $monthDir . '/' . $filename,
+            'https://github.com/0xWDG/previous-events/blob/main/' . $monthDir . '/' . $filename,
             $event->name,
             $beginDate,
             $event->location_name,
