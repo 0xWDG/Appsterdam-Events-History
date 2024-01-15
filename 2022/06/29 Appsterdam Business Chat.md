@@ -1,12 +1,12 @@
 # Appsterdam Business Chat
-Held at 2022-06-29 at https://www.meetup.com/nl-NL/Appsterdam/events/ptvkssydcjbmc/ with 1 Appsterdammers.
+Held at 2022-06-29 at https://www.meetup.com/nl-NL/Appsterdam/events/ptvkssydcjbmc/ with 3 Appsterdammers.
         
 |Key|Value
 |---|---|
 |id|[ptvkssydcjbmc](https://www.meetup.com/appsterdam/events/ptvkssydcjbmc/)|
 |name|Appsterdam Business Chat|
 |organizer|Appsterdam|
-|attendees|1|
+|attendees|3|
 |begin date|2022-06-29|
 |end date|2022-06-29|
 |price|0|

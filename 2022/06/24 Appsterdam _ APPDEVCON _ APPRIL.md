@@ -1,12 +1,12 @@
 # Appsterdam @ APPDEVCON + APPRIL
-Held at 2022-06-24 at Pathé Amsterdam Noord with 3 Appsterdammers.
+Held at 2022-06-24 at Pathé Amsterdam Noord with 6 Appsterdammers.
         
 |Key|Value
 |---|---|
 |id|[285861361](https://www.meetup.com/appsterdam/events/285861361/)|
 |name|Appsterdam @ APPDEVCON + APPRIL|
 |organizer|Appsterdam|
-|attendees|3|
+|attendees|6|
 |begin date|2022-06-24|
 |end date|2022-06-24|
 |price|0|

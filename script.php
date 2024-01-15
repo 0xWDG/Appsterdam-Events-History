@@ -1,4 +1,5 @@
 <?php
+date_default_timezone_set('Europe/Amsterdam');
 
 // Simple Event paser
 $api_response = json_decode(
@@ -7,9 +8,19 @@ $api_response = json_decode(
     )
 );
 
+$index = "# Appsterdam Events History";
+
 foreach ($api_response as $year) {
     // Create a new year
-    if (!file_exists($year->name)) mkdir($year->name);
+    if (!file_exists($year->name)) {
+        mkdir($year->name);
+    }
+
+    if (!isset($indexes[$year->name])) {
+        $index .= "\n\n## {$year->name}";
+        $index .= "\n|Event|Date|Location|Attendees|\n|---|---|---|---|\n";
+        $indexes[$year->name] = true;
+    }
 
     foreach ($year->events as $event) {
         $d = explode(':', $event->date);
@@ -53,10 +64,22 @@ Held at {$beginDate} at {$event->location_name} with {$event->attendees} Appster
 
         // Save the markdown file.
         file_put_contents(
-            $monthDir . '/' . $filename, 
+            $monthDir . '/' . $filename,
             $markdown
         );
+
+        $event->location_name = str_replace('|', '\|', $event->location_name);
+        if (preg_match('/http/', $event->location_name)) {
+            $event->location_name = "<a href='{$event->location_name}'>Online</a>";
+        } else {
+            $event->location_name = "<a href='https://maps.apple.com/?q={$event->location_address}'>{$event->location_name}</a>";
+        }
+
+        $index .= "|<a href='{$monthDir}/{$filename}'>{$event->name}</a>|{$beginDate}|{$event->location_name}|{$event->attendees}|\n";
     }
 }
 
+$index = "\n\n\nGenerated on " . date('Y-m-d H:i:s T') . "\n\n";
+
 if (file_exists('Upcoming')) rmdir('Upcoming');
+file_put_contents('README.md', $index);

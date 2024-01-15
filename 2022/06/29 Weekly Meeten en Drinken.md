@@ -1,12 +1,12 @@
 # Weekly Meeten en Drinken
-Held at 2022-06-29 at Cafe Bax with 2 Appsterdammers.
+Held at 2022-06-29 at Cafe Bax with 4 Appsterdammers.
         
 |Key|Value
 |---|---|
 |id|[vsqbssydcjbmc](https://www.meetup.com/appsterdam/events/vsqbssydcjbmc/)|
 |name|Weekly Meeten en Drinken|
 |organizer|Appsterdam|
-|attendees|2|
+|attendees|4|
 |begin date|2022-06-29|
 |end date|2022-06-29|
 |price|0|

@@ -1,12 +1,12 @@
 # Coffee Coding
-Held at 2022-07-02 at The Coffee Room with 1 Appsterdammers.
+Held at 2022-07-02 at The Coffee Room with 7 Appsterdammers.
         
 |Key|Value
 |---|---|
 |id|[cslpvsydckbdb](https://www.meetup.com/appsterdam/events/cslpvsydckbdb/)|
 |name|Coffee Coding|
 |organizer|Appsterdam|
-|attendees|1|
+|attendees|7|
 |begin date|2022-07-02|
 |end date|2022-07-02|
 |price|0|

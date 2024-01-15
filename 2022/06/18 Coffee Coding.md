@@ -1,12 +1,12 @@
 # Coffee Coding
-Held at 2022-06-18 at The Coffee Room with 6 Appsterdammers.
+Held at 2022-06-18 at The Coffee Room with 7 Appsterdammers.
         
 |Key|Value
 |---|---|
 |id|[bzhrrsydcjbxb](https://www.meetup.com/appsterdam/events/bzhrrsydcjbxb/)|
 |name|Coffee Coding|
 |organizer|Appsterdam|
-|attendees|6|
+|attendees|7|
 |begin date|2022-06-18|
 |end date|2022-06-18|
 |price|0|

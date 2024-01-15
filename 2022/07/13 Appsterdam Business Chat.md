@@ -1,12 +1,12 @@
 # Appsterdam Business Chat
-Held at 2022-07-13 at https://www.meetup.com/nl-NL/Appsterdam/events/ptvkssydckbrb/ with 0 Appsterdammers.
+Held at 2022-07-13 at https://www.meetup.com/nl-NL/Appsterdam/events/ptvkssydckbrb/ with 2 Appsterdammers.
         
 |Key|Value
 |---|---|
 |id|[ptvkssydckbrb](https://www.meetup.com/appsterdam/events/ptvkssydckbrb/)|
 |name|Appsterdam Business Chat|
 |organizer|Appsterdam|
-|attendees|0|
+|attendees|2|
 |begin date|2022-07-13|
 |end date|2022-07-13|
 |price|0|

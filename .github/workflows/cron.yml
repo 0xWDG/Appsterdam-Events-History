@@ -1,0 +1,22 @@
+name: Re-Deploy website
+on:
+  schedule:
+    # Run every day of the week at 21:00
+    - cron: '0 21 * * *'
+jobs:
+  build:
+    runs-on: ubuntu-latest   
+    steps:
+    - uses: actions/checkout@v2
+    - name: Run & Deploy
+      run: |
+        php script.php
+    - name: Setup github env
+      run: |
+        git config --global user.name "${GITHUB_ACTOR}"
+        git config --global user.email "${GITHUB_ACTOR}@users.noreply.github.com"
+    - name: push to Github
+      run: |
+        git --work-tree build add --all
+        git commit -m "Automatic Deploy action."
+        git push origin HEAD:main --force
