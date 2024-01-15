@@ -27,7 +27,7 @@ foreach ($api_response as $year) {
 
     if (!isset($indexes[$year->name])) {
         $index .= sprintf("\n\n## %s", $year->name);
-        $index .= "\n|Event|Date|Location|Attendees|\n|---|---|---|---|\n";
+        $index .= "\n<th><td>Event</td><td>Date</td><td>Location</td><td>Attendees</th></th>";
         $indexes[$year->name] = true;
     }
 
@@ -121,7 +121,7 @@ Held at {$beginDate} at {$event->location_name} with {$event->attendees} Appster
         }
 
         $index .= sprintf(
-            "|<a href='%s'>%s</a>|%s|%s|%s|\n",
+            "<tr><td><a href='%s'>%s</a></td><td>%s</td><td>%s</td><td>%s</td></tr>",
             'https://github.com/0xWDG/previous-events/blob/main/' . $monthDir . '/' . $filename,
             $event->name,
             $beginDate,
