@@ -8,6 +8,15 @@ $api_response = json_decode(
     )
 );
 
+$stats = array(
+    'events' => array(
+        'overall' => array()
+    ),
+    'attendees' => array(
+        'overall' => array()
+    )
+);
+
 $index = "# Appsterdam Events History";
 
 foreach ($api_response as $year) {
@@ -17,7 +26,7 @@ foreach ($api_response as $year) {
     }
 
     if (!isset($indexes[$year->name])) {
-        $index .= "\n\n## {$year->name}";
+        $index .= sprintf("\n\n## %s", $year->name);
         $index .= "\n|Event|Date|Location|Attendees|\n|---|---|---|---|\n";
         $indexes[$year->name] = true;
     }
@@ -25,11 +34,40 @@ foreach ($api_response as $year) {
     foreach ($year->events as $event) {
         $d = explode(':', $event->date);
 
+        $eventYear = (
+            $year->name == 'Upcoming'
+            ? date('Y')
+            : $year->name
+        );
+
         // Create a month
-        $monthDir = ($year->name == 'Upcoming' ? date('Y') : $year->name) . '/' . substr($d[0], 4, 2);
-        if (!file_exists($monthDir)) mkdir($monthDir);
+        $monthDir = $eventYear . '/' . substr($d[0], 4, 2);
+
+        if (!file_exists($monthDir))
+            mkdir($monthDir);
 
         $eventFilename = preg_replace('/[^A-Za-z0-9_\- ]/', '_', $event->name);
+
+        $tempEventName = $event->name;
+        if (preg_match('/weekend fun:/', strtolower($event->name))) {
+            $tempEventName = "Weekend Fun";
+        }
+
+        $stats['events']['overall'][$tempEventName] = (
+            $stats['events']['overall'][$tempEventName] ?? 0
+        ) + 1;
+
+        $stats['events'][$eventYear][$tempEventName] = (
+            $stats['events'][$eventYear][$tempEventName] ?? 0
+        ) + 1;
+
+        $stats['attendees']['overall'][$tempEventName] = (
+            $stats['attendees']['overall'][$tempEventName] ?? 0
+        ) + $event->attendees;
+
+        $stats['attendees'][$eventYear][$tempEventName] = (
+            $stats['attendees'][$eventYear][$tempEventName] ?? 0
+        ) + $event->attendees;
 
         // Set the file name (dd - eventname.md)
         $filename = substr($d[0], 6, 2) . ' ' . $eventFilename . '.md';
@@ -70,16 +108,45 @@ Held at {$beginDate} at {$event->location_name} with {$event->attendees} Appster
 
         $event->location_name = str_replace('|', '\|', $event->location_name);
         if (preg_match('/http/', $event->location_name)) {
-            $event->location_name = "<a href='{$event->location_name}'>Online</a>";
+            $event->location_name = sprintf(
+                "<a href='%s'>Online</a>",
+                $event->location_name
+            );
         } else {
-            $event->location_name = "<a href='https://maps.apple.com/?q={$event->location_address}'>{$event->location_name}</a>";
+            $event->location_name = sprintf(
+                "<a href='https://maps.apple.com/?q=%s'>%s</a>",
+                urlencode($event->location_address),
+                $event->location_name
+            );
         }
 
-        $index .= "|<a href='{$monthDir}/{$filename}'>{$event->name}</a>|{$beginDate}|{$event->location_name}|{$event->attendees}|\n";
+        $index .= sprintf(
+            "|<a href='%s'>%s</a>|%s|%s|%s|\n",
+            urlencode($monthDir . '/' . $filename),
+            $event->name,
+            $beginDate,
+            $event->location_name,
+            $event->attendees
+        );
     }
 }
 
-$index .= "\n\n\nGenerated on " . date('Y-m-d H:i:s T') . "\n\n";
+foreach ($stats['events'] as $eventYear => $events) {
+    $index .= sprintf("\n\n## %s Statistics\n\n", ucfirst($eventYear));
+    $index .= "|Event|Count|Average Attendees\n|---|---|---|\n";
+    foreach ($events as $event => $count) {
+        $avg = round($stats['attendees'][$eventYear][$event] / $count);
 
-if (file_exists('Upcoming')) rmdir('Upcoming');
+        // Skip events with only one occurance, or with an average of less than 2 attendees.
+        if ($count > 1 || $avg > 2) {
+            $index .= "|{$event}|{$count}|{$avg}|\n";
+        }
+    }
+}
+
+$index .= sprintf("\n\n\nGenerated on %s\n\n", date('Y-m-d H:i:s T'));
+
+if (file_exists('Upcoming'))
+    rmdir('Upcoming');
+
 file_put_contents('README.md', $index);
