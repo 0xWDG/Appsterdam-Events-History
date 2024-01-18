@@ -145,7 +145,15 @@ $index .= sprintf(
     $repoURL
 );
 
+$index .= "### Navigation\n\nREPLACE_ME_NAV\n\n";
+$nav = '';
+
 foreach ($stats['events'] as $eventYear => $events) {
+    $nav .= sprintf(
+        "<a href=\'#%s-statistics\'>%s</a> | ",
+        strtolower($eventYear), $eventYear
+    );
+
     $index .= sprintf("\n\n## %s Statistics\n\n", ucfirst($eventYear));
     $index .= "<table><tr><th>Event</th><th>Count</th><th>Average Attendees</th></tr>";
     foreach ($events as $event => $count) {
@@ -158,6 +166,8 @@ foreach ($stats['events'] as $eventYear => $events) {
     }
     $index .= "</table>";
 }
+
+$index = preg_replace('REPLACE_ME_NAV', $nav);
 
 $index .= sprintf("\n\n\nGenerated on %s\n\n", date('Y-m-d H:i:s T'));
 
