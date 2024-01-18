@@ -20,6 +20,10 @@ $stats = array(
 );
 
 $index = "# Appsterdam Events History";
+$index .= sprintf(
+    "<a href='%s/blob/main/README.md'>See event statistics here</a>\n\n",
+    $repoURL
+);
 
 foreach ($api_response as $year) {
     // Create a new year
