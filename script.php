@@ -24,6 +24,8 @@ $index .= sprintf(
     "<a href='%s/blob/main/README.md'>See event statistics here</a>\n\n",
     $repoURL
 );
+$index .= "### Navigation\n\nREPLACE_ME_NAV";
+$nav = '';
 
 foreach ($api_response as $year) {
     // Create a new year
@@ -35,6 +37,12 @@ foreach ($api_response as $year) {
         $index .= sprintf("\n\n## %s", $year->name);
         $index .= "\n<table><tr><th>Event</th><th>Date</th><th>Location</th><th>Attendees</th></tr>";
         $indexes[$year->name] = true;
+
+        $nav .= sprintf(
+            "<a href='#%s'>%s</a> | ",
+            strtolower($year->name),
+            ucfirst($year->name)
+        );
     }
 
     foreach ($year->events as $event) {
@@ -139,6 +147,12 @@ Held at {$beginDate} at {$event->location_name} with {$event->attendees} Appster
     $index .= "</table>";
 }
 
+// Add the navigation to the index, and remove the last 3 characters ( | )
+$index = preg_replace(
+    '/REPLACE_ME_NAV/',
+    substr($nav, 0, -3),
+    $index
+);
 $index .= sprintf("\n\n\nGenerated on %s\n\n", date('Y-m-d H:i:s T'));
 
 file_put_contents('HISTORY.md', $index);
