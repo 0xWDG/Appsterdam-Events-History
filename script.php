@@ -8,7 +8,7 @@ $api_response = json_decode(
     )
 );
 
-$repoURL = "";
+$repoURL = "https://github.com/0xWDG/Appsterdam-Events-History";
 
 $stats = array(
     'events' => array(
