@@ -3,7 +3,7 @@ Held at 2024-02-07 at Cafe Bax with 5 Appsterdammers.
         
 |Key|Value
 |---|---|
-|id|[mnbmbtygcdbkb](https://www.meetup.com/appsterdam/events/mnbmbtygcdbkb/)|
+|id|[bqtzjtygcdbkb](https://www.meetup.com/appsterdam/events/bqtzjtygcdbkb/)|
 |name|Weekly Meeten en Drinken|
 |organizer|Appsterdam|
 |attendees|5|
