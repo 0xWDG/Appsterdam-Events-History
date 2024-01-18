@@ -145,13 +145,14 @@ $index .= sprintf(
     $repoURL
 );
 
-$index .= "### Navigation\n\nREPLACE_ME_NAV\n\n";
+$index .= "### Navigation\n\nREPLACE_ME_NAV";
 $nav = '';
 
 foreach ($stats['events'] as $eventYear => $events) {
     $nav .= sprintf(
-        "<a href=\'#%s-statistics\'>%s</a> | ",
-        strtolower($eventYear), $eventYear
+        "<a href='#%s-statistics'>%s</a> | ",
+        strtolower($eventYear),
+        ucfirst($eventYear)
     );
 
     $index .= sprintf("\n\n## %s Statistics\n\n", ucfirst($eventYear));
@@ -167,7 +168,12 @@ foreach ($stats['events'] as $eventYear => $events) {
     $index .= "</table>";
 }
 
-$index = preg_replace('REPLACE_ME_NAV', $nav);
+// Add the navigation to the index, and remove the last 3 characters ( | )
+$index = preg_replace(
+    '/REPLACE_ME_NAV/',
+    substr($nav, 0, -3),
+    $index
+);
 
 $index .= sprintf("\n\n\nGenerated on %s\n\n", date('Y-m-d H:i:s T'));
 
