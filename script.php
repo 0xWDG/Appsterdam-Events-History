@@ -1,12 +1,14 @@
 <?php
+
 date_default_timezone_set('Europe/Amsterdam');
 
-// Simple Event paser
 $api_response = json_decode(
     file_get_contents(
         'https://raw.githubusercontent.com/Appsterdam/api/main/events.json'
     )
 );
+
+$repoURL = "";
 
 $stats = array(
     'events' => array(
@@ -122,7 +124,7 @@ Held at {$beginDate} at {$event->location_name} with {$event->attendees} Appster
 
         $index .= sprintf(
             "<tr><td><a href='%s'>%s</a></td><td>%s</td><td>%s</td><td>%s</td></tr>",
-            'https://github.com/0xWDG/previous-events/blob/main/' . $monthDir . '/' . $filename,
+            $repoURL . '/blob/main/' . $monthDir . '/' . $filename,
             $event->name,
             $beginDate,
             $event->location_name,
@@ -132,6 +134,16 @@ Held at {$beginDate} at {$event->location_name} with {$event->attendees} Appster
 
     $index .= "</table>";
 }
+
+$index .= sprintf("\n\n\nGenerated on %s\n\n", date('Y-m-d H:i:s T'));
+
+file_put_contents('HISTORY.md', $index);
+
+$index = "# Appsterdam Events Statistics\n\n";
+$index .= sprintf(
+    "<a href='%s/blob/main/HISTORY.md'>See historic events here</a>\n\n",
+    $repoURL
+);
 
 foreach ($stats['events'] as $eventYear => $events) {
     $index .= sprintf("\n\n## %s Statistics\n\n", ucfirst($eventYear));
