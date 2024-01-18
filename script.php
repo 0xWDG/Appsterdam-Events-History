@@ -19,7 +19,7 @@ $stats = array(
     )
 );
 
-$index = "# Appsterdam Events History";
+$index = "# Appsterdam Events History\n\n";
 $index .= sprintf(
     "<a href='%s/blob/main/README.md'>See event statistics here</a>\n\n",
     $repoURL
