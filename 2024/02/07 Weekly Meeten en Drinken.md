@@ -1,12 +1,12 @@
 # Weekly Meeten en Drinken
-Held at 2024-02-07 at Cafe Bax with 5 Appsterdammers.
+Held at 2024-02-07 at Cafe Bax with 0 Appsterdammers.
         
 |Key|Value
 |---|---|
-|id|[bqtzjtygcdbkb](https://www.meetup.com/appsterdam/events/bqtzjtygcdbkb/)|
+|id|[mztcktygcdbkb](https://www.meetup.com/appsterdam/events/mztcktygcdbkb/)|
 |name|Weekly Meeten en Drinken|
 |organizer|Appsterdam|
-|attendees|5|
+|attendees|0|
 |begin date|2024-02-07|
 |end date|2024-02-07|
 |price|0|
@@ -28,6 +28,6 @@ Yes, even after ten long years and a pandemic, this is still the place for you t
 
 Be sure to ask the waitress/waiter about their seasonal beers and grab a snack to share with your friends. All Appsterdammers get 10% off the entire bill, so order whatever you want to eat/drink. Then sit back and enjoy the company of your peers.
 
-The day is always Wednesday. The place is always Café Bax (http://www.cafebax.nl/). The time, for now, is 19:00.
+The day is always Wednesday. The place is always [Café Bax](http://www.cafebax.nl/). The time, for now, is 19:00.
 
-Please note: It's a very casual event so people often don't RSVP or show up exactly on time. But don't fear, you can *always* find Appsterdammers at this event! Not sure you're in the right place? Just ask the staff! 
+Please note: It's a very casual event so people often don't RSVP or show up exactly on time. But don't fear, you can always find Appsterdammers at this event! Not sure you're in the right place? Just ask the staff! 
