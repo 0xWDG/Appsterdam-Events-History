@@ -1,12 +1,12 @@
 # Coffee Coding
-Held at 2024-02-24 at The Coffee Room with 0 Appsterdammers.
+Held at 2024-02-24 at The Coffee Room with 3 Appsterdammers.
         
 |Key|Value
 |---|---|
 |id|[vvlvhtygcdbgc](https://www.meetup.com/appsterdam/events/vvlvhtygcdbgc/)|
 |name|Coffee Coding|
 |organizer|Appsterdam|
-|attendees|0|
+|attendees|3|
 |begin date|2024-02-24|
 |end date|2024-02-24|
 |price|0|
