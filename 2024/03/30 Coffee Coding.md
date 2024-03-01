@@ -1,14 +1,14 @@
 # Coffee Coding
-Held at 2024-03-02 at The Coffee Room with 10 Appsterdammers.
+Held at 2024-03-30 at The Coffee Room with 0 Appsterdammers.
         
 |Key|Value
 |---|---|
-|id|[vvlvhtygcfbdb](https://www.meetup.com/appsterdam/events/vvlvhtygcfbdb/)|
+|id|[vvlvhtygcfbnc](https://www.meetup.com/appsterdam/events/vvlvhtygcfbnc/)|
 |name|Coffee Coding|
 |organizer|Appsterdam|
-|attendees|10|
-|begin date|2024-03-02|
-|end date|2024-03-02|
+|attendees|0|
+|begin date|2024-03-30|
+|end date|2024-03-30|
 |price|0|
 |location name|The Coffee Room|
 |location address|Kinkerstraat 110, Amsterdam|
