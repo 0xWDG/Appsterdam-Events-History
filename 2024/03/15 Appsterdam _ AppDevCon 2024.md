@@ -1,12 +1,12 @@
 # Appsterdam @ AppDevCon 2024
-Held at 2024-03-15 at Pathé Amsterdam Noord with 6 Appsterdammers.
+Held at 2024-03-15 at Pathé Amsterdam Noord with 7 Appsterdammers.
         
 |Key|Value
 |---|---|
 |id|[298883031](https://www.meetup.com/appsterdam/events/298883031/)|
 |name|Appsterdam @ AppDevCon 2024|
 |organizer|Appsterdam|
-|attendees|6|
+|attendees|7|
 |begin date|2024-03-15|
 |end date|2024-03-15|
 |price|0|
