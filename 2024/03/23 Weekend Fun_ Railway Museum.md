@@ -1,12 +1,12 @@
 # Weekend Fun: Railway Museum
-Held at 2024-03-23 at Spoorwegmuseum with 4 Appsterdammers.
+Held at 2024-03-23 at Spoorwegmuseum with 3 Appsterdammers.
         
 |Key|Value
 |---|---|
 |id|[298103712](https://www.meetup.com/appsterdam/events/298103712/)|
 |name|Weekend Fun: Railway Museum|
 |organizer|Appsterdam|
-|attendees|4|
+|attendees|3|
 |begin date|2024-03-23|
 |end date|2024-03-23|
 |price|0|
