@@ -1,12 +1,12 @@
 # Weekly Meeten en Drinken
-Held at 2024-03-27 at Cafe Bax with 2 Appsterdammers.
+Held at 2024-03-27 at Cafe Bax with 4 Appsterdammers.
         
 |Key|Value
 |---|---|
 |id|[mztcktygcfbkc](https://www.meetup.com/appsterdam/events/mztcktygcfbkc/)|
 |name|Weekly Meeten en Drinken|
 |organizer|Appsterdam|
-|attendees|2|
+|attendees|4|
 |begin date|2024-03-27|
 |end date|2024-03-27|
 |price|0|
