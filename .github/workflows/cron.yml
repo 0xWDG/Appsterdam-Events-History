@@ -19,5 +19,5 @@ jobs:
     - name: push to Github
       run: |
         git add . --all
-        git commit -m "Automatic Deploy action."
+        git commit -m "Automatic Deploy action `date`."
         git push origin HEAD:main --force
