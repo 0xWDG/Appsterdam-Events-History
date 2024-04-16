@@ -1,12 +1,12 @@
 # Partner Event (Appril): Mobile Lunch Utrecht
-Held at 2024-04-23 at Spaces - House Modernes with 2 Appsterdammers.
+Held at 2024-04-23 at Spaces - House Modernes with 1 Appsterdammers.
         
 |Key|Value
 |---|---|
 |id|[300091123](https://www.meetup.com/appsterdam/events/300091123/)|
 |name|Partner Event (Appril): Mobile Lunch Utrecht|
 |organizer|Appsterdam|
-|attendees|2|
+|attendees|1|
 |begin date|2024-04-23|
 |end date|2024-04-23|
 |price|0|

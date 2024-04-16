@@ -1,12 +1,12 @@
 # Partner event (Appril): GPT prompt engineering code workshop
-Held at 2024-04-23 at Spaces - House Modernes with 2 Appsterdammers.
+Held at 2024-04-23 at Spaces - House Modernes with 1 Appsterdammers.
         
 |Key|Value
 |---|---|
 |id|[300090923](https://www.meetup.com/appsterdam/events/300090923/)|
 |name|Partner event (Appril): GPT prompt engineering code workshop|
 |organizer|Appsterdam|
-|attendees|2|
+|attendees|1|
 |begin date|2024-04-23|
 |end date|2024-04-23|
 |price|0|

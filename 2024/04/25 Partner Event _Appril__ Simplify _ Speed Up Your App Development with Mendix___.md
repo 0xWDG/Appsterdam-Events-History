@@ -1,12 +1,12 @@
 # Partner Event (Appril): Simplify & Speed Up Your App Development with Mendix...
-Held at 2024-04-25 at Mendix with 2 Appsterdammers.
+Held at 2024-04-25 at Mendix with 1 Appsterdammers.
         
 |Key|Value
 |---|---|
 |id|[300091002](https://www.meetup.com/appsterdam/events/300091002/)|
 |name|Partner Event (Appril): Simplify & Speed Up Your App Development with Mendix...|
 |organizer|Appsterdam|
-|attendees|2|
+|attendees|1|
 |begin date|2024-04-25|
 |end date|2024-04-25|
 |price|0|

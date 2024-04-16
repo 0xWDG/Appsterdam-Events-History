@@ -1,12 +1,12 @@
 # Partner Event (Appril): Amsterdam App Growth Experts
-Held at 2024-04-23 at StartDock Coworking Keizersgracht with 2 Appsterdammers.
+Held at 2024-04-23 at StartDock Coworking Keizersgracht with 1 Appsterdammers.
         
 |Key|Value
 |---|---|
 |id|[300091094](https://www.meetup.com/appsterdam/events/300091094/)|
 |name|Partner Event (Appril): Amsterdam App Growth Experts|
 |organizer|Appsterdam|
-|attendees|2|
+|attendees|1|
 |begin date|2024-04-23|
 |end date|2024-04-23|
 |price|0|

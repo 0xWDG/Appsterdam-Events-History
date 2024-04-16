@@ -1,12 +1,12 @@
 # Partner event (Appril): Leer je te verplaatsen in de gebruiker en verhoog...
-Held at 2024-04-17 at UX Academy with 2 Appsterdammers.
+Held at 2024-04-17 at UX Academy with 1 Appsterdammers.
         
 |Key|Value
 |---|---|
 |id|[300090787](https://www.meetup.com/appsterdam/events/300090787/)|
 |name|Partner event (Appril): Leer je te verplaatsen in de gebruiker en verhoog...|
 |organizer|Appsterdam|
-|attendees|2|
+|attendees|1|
 |begin date|2024-04-17|
 |end date|2024-04-17|
 |price|0|
