@@ -1,12 +1,12 @@
 # Weekend Fun: Scheepvaartmuseum
-Held at 2024-04-20 at The National Maritime Museum with 4 Appsterdammers.
+Held at 2024-04-20 at The National Maritime Museum with 3 Appsterdammers.
         
 |Key|Value
 |---|---|
 |id|[298103715](https://www.meetup.com/appsterdam/events/298103715/)|
 |name|Weekend Fun: Scheepvaartmuseum|
 |organizer|Appsterdam|
-|attendees|4|
+|attendees|3|
 |begin date|2024-04-20|
 |end date|2024-04-20|
 |price|0|
