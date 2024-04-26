@@ -24,7 +24,11 @@ Pricing: € 18,00
 
 **Schedule:**
 
-• We'll gather in front of **Zuiderzeemuseum** just after 13:00. You can buy tickets for the 13:00 time slot.
+• (optional) We leave from Amsterdam Centraal [11:53 by train](https://www.ns.nl/rpx?ctx=arnu%7CfromStation%3D8400058%7CtoLocation%3D52.704804%2C5.297706%7CdestinationName%3DZuiderzeemuseum%7CplannedFromTime%3D2024-05-11T11%3A53%3A00%2B02%3A00%7CplannedArrivalTime%3D2024-05-11T13%3A08%3A00%2B02%3A00%7CexcludeHighSpeedTrains%3Dfalse%7CsearchForAccessibleTrip%3Dfalse%7ClocalTrainsOnly%3Dfalse%7CtravelAssistance%3Dfalse%7CtripSummaryHash%3D2417953461&amp;amp;amp;destinationName=Zuiderzeemuseum)
+
+• We'll gather at **the Train Station** (Stationsplein 2, 1601EN *Enkhuizen)* at **13:08**. (or the closest time the train will arrive from Amsterdam Centraal)
+
+• We'll go by ferry from the train station to the Museum
 
 **Contact information:**
 
@@ -34,13 +38,13 @@ If you want to meet us later, get lost or for any other reason need to get in to
 
 • Jake, [@jake_ruston](http://twitter.com/jake_ruston/) (twitter)
 
-• Discord group [https://discord.gg/G2VN29kmMc](https://discord.gg/G2VN29kmMc)
+• Whatsapp Group: [https://chat.whatsapp.com/Hn5v7ojB1wG7TDaIG8NpoK](https://chat.whatsapp.com/Hn5v7ojB1wG7TDaIG8NpoK)
 
 **Getting there:**
 
 Wierdijk 12-22, 1601 LA Enkhuizen
 
-Route: [Bike](http://maps.apple.com/?daddr=Wierdijk%2012-22%2C%201601%20LA%20Enkhuizen&amp;t=m&amp;dirflg=b), [Public Transport](http://maps.apple.com/?daddr=Wierdijk%2012-22%2C%201601%20LA%20Enkhuizen&amp;t=m&amp;dirflg=r), [Car](http://maps.apple.com/?daddr=Wierdijk%2012-22%2C%201601%20LA%20Enkhuizen&amp;t=m&amp;dirflg=d)
+Route: [Bike](http://maps.apple.com/?daddr=Wierdijk%2012-22%2C%201601%20LA%20Enkhuizen&amp;amp;t=m&amp;amp;dirflg=b), [Public Transport](http://maps.apple.com/?daddr=Wierdijk%2012-22%2C%201601%20LA%20Enkhuizen&amp;amp;t=m&amp;amp;dirflg=r), ([Car](http://maps.apple.com/?daddr=Wierdijk%2012-22%2C%201601%20LA%20Enkhuizen&amp;amp;t=m&amp;amp;dirflg=d), please see [https://www.zuiderzeemuseum.nl/en/page/347/how-to-find-us-and-parking](https://www.zuiderzeemuseum.nl/en/page/347/how-to-find-us-and-parking))
 
 We hope to see you there!
 
