@@ -1,12 +1,12 @@
 # Weekend Fun: Zuiderzeemuseum
-Held at 2024-05-11 at Zuiderzeemuseum with 3 Appsterdammers.
+Held at 2024-05-11 at Zuiderzeemuseum with 4 Appsterdammers.
         
 |Key|Value
 |---|---|
 |id|[298103718](https://www.meetup.com/appsterdam/events/298103718/)|
 |name|Weekend Fun: Zuiderzeemuseum|
 |organizer|Appsterdam|
-|attendees|3|
+|attendees|4|
 |begin date|2024-05-11|
 |end date|2024-05-11|
 |price|0|
