@@ -80,8 +80,8 @@ foreach ($api_response as $year) {
 
         // Create an temporary event name for the statistics.
         $tempEventName = $event->name;
-        // if the event name contains 'weekend fun:', replace it with 'weekend fun'.
-        if (preg_match('/weekend fun:/', strtolower($event->name))) {
+        // if the event name contains 'weekend fun:' or 'family weekend', replace it with 'weekend fun'.
+        if (preg_match('/(family\s)?weekend(\sfun:?)?/i', strtolower($event->name))) {
             $tempEventName = "Weekend Fun";
         }
 
