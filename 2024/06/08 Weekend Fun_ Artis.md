@@ -1,12 +1,12 @@
 # Weekend Fun: Artis
-Held at 2024-06-08 at ARTIS with 2 Appsterdammers.
+Held at 2024-06-08 at ARTIS with 3 Appsterdammers.
         
 |Key|Value
 |---|---|
 |id|[298103735](https://www.meetup.com/appsterdam/events/298103735/)|
 |name|Weekend Fun: Artis|
 |organizer|Appsterdam|
-|attendees|2|
+|attendees|3|
 |begin date|2024-06-08|
 |end date|2024-06-08|
 |price|0|
@@ -20,7 +20,7 @@ Held at 2024-06-08 at ARTIS with 2 Appsterdammers.
 
 What would be a better way to spend your Saturday than getting together with Appsterdammers, their friends and families to visit [Artis](https://www.artis.nl/en/)
 
-Pricing: € 25
+Pricing: € 26,50
 
 **Schedule:**
 
