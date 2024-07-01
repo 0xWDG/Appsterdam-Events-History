@@ -1,14 +1,14 @@
 # Weekly Meeten en Drinken
-Held at 2024-07-03 at Cafe Bax with 4 Appsterdammers.
+Held at 2024-07-31 at Cafe Bax with 2 Appsterdammers.
         
 |Key|Value
 |---|---|
-|id|[mztcktygckbfb](https://www.meetup.com/appsterdam/events/mztcktygckbfb/)|
+|id|[mztcktygckbpc](https://www.meetup.com/appsterdam/events/mztcktygckbpc/)|
 |name|Weekly Meeten en Drinken|
 |organizer|Appsterdam|
-|attendees|4|
-|begin date|2024-07-03|
-|end date|2024-07-03|
+|attendees|2|
+|begin date|2024-07-31|
+|end date|2024-07-31|
 |price|0|
 |location name|Cafe Bax|
 |location address|Ten Katestraat 119, Amsterdam|
