@@ -3,7 +3,7 @@ Held at 2024-07-13 at The Coffee Room with 2 Appsterdammers.
         
 |Key|Value
 |---|---|
-|id|[vvlvhtygckbrb](https://www.meetup.com/appsterdam/events/vvlvhtygckbrb/)|
+|id|[302075823](https://www.meetup.com/appsterdam/events/302075823/)|
 |name|Coffee Coding|
 |organizer|Appsterdam|
 |attendees|2|
