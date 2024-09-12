@@ -11,9 +11,9 @@ Held at 2024-09-28 at Blast Galaxy with 5 Appsterdammers.
 |end date|2024-09-28|
 |price|0|
 |location name|Blast Galaxy|
-|location address|Mt. Lincolnweg 17, Amsterdam|
-|latitude|52.404655456543|
-|longitude|4.8906798362732|
+|location address|Magneetstraat 5, Amsterdam|
+|latitude|52.390174865723|
+|longitude|4.8538999557495|
 |(in-app) icon|hands.sparkles|
 
 ---
@@ -38,11 +38,9 @@ If you want to meet us later, get lost or for any other reason need to get in to
 
 **Getting there:**
 
-Mt. Lincolnweg 17, 1033 SN Amsterdam
+Magneetstraat 5, 1014 CC Amsterdam
 
-Route: [Bike](http://maps.apple.com/?daddr=Mt.%20Lincolnweg%2017%2C%201033%20SN%20Amsterdam&amp;t=m&amp;dirflg=b), [Public Transport](http://maps.apple.com/?daddr=Mt.%20Lincolnweg%2017%2C%201033%20SN%20Amsterdam&amp;t=m&amp;dirflg=r), [Car](http://maps.apple.com/?daddr=Mt.%20Lincolnweg%2017%2C%201033%20SN%20Amsterdam&amp;t=m&amp;dirflg=d)
-
-We hope to see you there!
+Route: [Bike](http://maps.apple.com/?daddr=Magneetstraat%205%2C%201014%20CC%20Amsterdam&amp;t=m&amp;dirflg=b), [Public Transport](http://maps.apple.com/?daddr=Magneetstraat%205%2C%201014%20CC%20Amsterdam&amp;t=m&amp;dirflg=r), [Car](http://maps.apple.com/?daddr=Magneetstraat%205%2C%201014%20CC%20Amsterdam&amp;t=m&amp;dirflg=d)
 
 **Playable games:**
 
