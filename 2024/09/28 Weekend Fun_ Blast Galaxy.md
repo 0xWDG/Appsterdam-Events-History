@@ -1,12 +1,12 @@
 # Weekend Fun: Blast Galaxy
-Held at 2024-09-28 at Blast Galaxy with 5 Appsterdammers.
+Held at 2024-09-28 at Blast Galaxy with 4 Appsterdammers.
         
 |Key|Value
 |---|---|
 |id|[298103738](https://www.meetup.com/appsterdam/events/298103738/)|
 |name|Weekend Fun: Blast Galaxy|
 |organizer|Appsterdam|
-|attendees|5|
+|attendees|4|
 |begin date|2024-09-28|
 |end date|2024-09-28|
 |price|0|
