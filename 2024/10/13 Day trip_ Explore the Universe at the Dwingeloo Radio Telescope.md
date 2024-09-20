@@ -1,12 +1,12 @@
 # Day trip: Explore the Universe at the Dwingeloo Radio Telescope
-Held at 2024-10-13 at Dwingeloo Radiotelescoop with 1 Appsterdammers.
+Held at 2024-10-13 at Dwingeloo Radiotelescoop with 3 Appsterdammers.
         
 |Key|Value
 |---|---|
 |id|[303314864](https://www.meetup.com/appsterdam/events/303314864/)|
 |name|Day trip: Explore the Universe at the Dwingeloo Radio Telescope|
 |organizer|Appsterdam|
-|attendees|1|
+|attendees|3|
 |begin date|2024-10-13|
 |end date|2024-10-13|
 |price|48|
