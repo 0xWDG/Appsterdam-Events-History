@@ -30,7 +30,7 @@ In the rotating observation room of the radio telescope, you’ll gain insight i
 
 * **Watch the universe expanding**: Learn how hydrogen radio frequencies reveal that the universe is continuously expanding and in motion.
 
-* **Track satellites**: Witness how the 130-ton telescope tracks satellites passing overhead at high speeds. Learn about success stories, like how CAMRAS volunteers downloaded images from a Chinese lunar satellite, showing Earth rising from behind the moon.
+* **Track satellites**: Witness how the 130-ton telescope tracks satellites passing overhead at high speeds. Learn about success stories, like how CAMRAS volunteers downloaded images from a Chinese lunar satellite, showing Earth rising from the moon's horizon.
 
 * **Earth-Moon-Earth communication**: Discover how to send and receive radio signals via the Moon—one of Dwingeloo’s expertise.
 
@@ -58,9 +58,9 @@ This is a unique opportunity not only to learn but also to be inspired by the in
 
 🎟️ **Sign up now!**
 
-There are 20 spots available! This trip is for Appsterdammers and aal individuals interested in astronomy. You can bring up to two friends or colleagues. Register now and experience a day where (radio) astronomy and learning come together in a rememberable day.
+There are 20 spots available! This trip is for Appsterdammers and all individuals interested in astronomy. You can bring up to two friends or colleagues. Register now and experience a day where (radio) astronomy and learning come together in a rememberable day.
 
-Participants will receive final trip details by email (such as the pickup point in Amsterdam).
+Participants will receive trip details by email (such as the pickup point in Amsterdam).
 
 ❓**Any questions**❓
 
