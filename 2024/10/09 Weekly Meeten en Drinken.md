@@ -1,12 +1,12 @@
 # Weekly Meeten en Drinken
-Held at 2024-10-09 at Cafe Bax with 1 Appsterdammers.
+Held at 2024-10-09 at Cafe Bax with 2 Appsterdammers.
         
 |Key|Value
 |---|---|
-|id|[mztcktygcnbmb](https://www.meetup.com/appsterdam/events/mztcktygcnbmb/)|
+|id|[xrsmntygcnbmb](https://www.meetup.com/appsterdam/events/xrsmntygcnbmb/)|
 |name|Weekly Meeten en Drinken|
 |organizer|Appsterdam|
-|attendees|1|
+|attendees|2|
 |begin date|2024-10-09|
 |end date|2024-10-09|
 |price|0|
@@ -20,7 +20,7 @@ Held at 2024-10-09 at Cafe Bax with 1 Appsterdammers.
 
 Ahoy, fellow Appsterdammers!
 
-If you feel like it\'s time to start slowly getting used to being social again, maybe you\'d like to warm up with your fellow makers, nerds, and other technology enthusiasts, who might better understand your specific interests and social style.
+If you feel like it's time to start slowly getting used to being social again, maybe you'd like to warm up with your fellow makers, nerds, and other technology enthusiasts, who might better understand your specific interests and social style.
 
 Join us in the cozy cafe where Appsterdam was born, at an earlier than usual time, to enjoy their legendary terrace and its ongoing attempts to comply with an ever-shifting landscape of rules — something many App Makers will understand!
 
@@ -30,4 +30,4 @@ Be sure to ask the waitress/waiter about their seasonal beers and grab a snack t
 
 The day is always Wednesday. The place is always [Café Bax](http://www.cafebax.nl/). The time, for now, is 19:00.
 
-Please note: It\'s a very casual event so people often don\'t RSVP or show up exactly on time. But don\'t fear, you can always find Appsterdammers at this event! Not sure you\'re in the right place? Just ask the staff! 
+Please note: It's a very casual event so people often don't RSVP or show up exactly on time. But don't fear, you can always find Appsterdammers at this event! Not sure you're in the right place? Just ask the staff! 
