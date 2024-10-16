@@ -1,12 +1,12 @@
 # Weekly Meeten en Drinken
-Held at 2024-10-16 at Cafe Bax with 2 Appsterdammers.
+Held at 2024-10-16 at Cafe Bax with 3 Appsterdammers.
         
 |Key|Value
 |---|---|
-|id|[mztcktygcnbvb](https://www.meetup.com/appsterdam/events/mztcktygcnbvb/)|
+|id|[xrsmntygcnbvb](https://www.meetup.com/appsterdam/events/xrsmntygcnbvb/)|
 |name|Weekly Meeten en Drinken|
 |organizer|Appsterdam|
-|attendees|2|
+|attendees|3|
 |begin date|2024-10-16|
 |end date|2024-10-16|
 |price|0|
