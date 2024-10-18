@@ -1,12 +1,12 @@
 # Weekend Fun: Zaanse Schans
-Held at 2024-10-26 at Zaanse Schans with 4 Appsterdammers.
+Held at 2024-10-26 at Zaanse Schans with 3 Appsterdammers.
         
 |Key|Value
 |---|---|
 |id|[298104095](https://www.meetup.com/appsterdam/events/298104095/)|
 |name|Weekend Fun: Zaanse Schans|
 |organizer|Appsterdam|
-|attendees|4|
+|attendees|3|
 |begin date|2024-10-26|
 |end date|2024-10-26|
 |price|0|

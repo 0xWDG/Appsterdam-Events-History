@@ -1,12 +1,12 @@
 # Weekend Fun: Madurodam
-Held at 2024-11-09 at Madurodam with 3 Appsterdammers.
+Held at 2024-11-09 at Madurodam with 2 Appsterdammers.
         
 |Key|Value
 |---|---|
 |id|[298104085](https://www.meetup.com/appsterdam/events/298104085/)|
 |name|Weekend Fun: Madurodam|
 |organizer|Appsterdam|
-|attendees|3|
+|attendees|2|
 |begin date|2024-11-09|
 |end date|2024-11-09|
 |price|0|
