@@ -80,11 +80,40 @@ foreach ($api_response as $year) {
 
         // Create an temporary event name for the statistics.
         $tempEventName = $event->name;
+
         // if the event name contains 'weekend fun:' or 'family weekend', replace it with 'weekend fun'.
         if (preg_match('/(family\s)?weekend(\sfun:?)?/i', strtolower($event->name))) {
             $tempEventName = "Weekend Fun";
         }
 
+        if (preg_match('/(WWL|Weekly Wednesday Lunchtime Lecture)/i', strtolower($event->name))) {
+            $tempEventName = "Weekly Wednesday Lunchtime Lectures";
+        }
+
+        if (preg_match('/Guru Session/i', strtolower($event->name))) {
+            $tempEventName = "Guru Session";
+        }
+
+        if (preg_match('/Pitch Club/i', strtolower($event->name))) {
+            $tempEventName = "Pitch Club";
+        }
+
+        if (preg_match('/Guru Session/i', strtolower($event->name))) {
+            $tempEventName = "Guru Session";
+        }
+
+        if (preg_match('/Appsterdam Bike Bridgade/i', strtolower($event->name))) {
+            $tempEventName = "Appsterdam Bike Bridgade";
+        }
+
+        if (preg_match('/Appsterdam Lunch Event/i', strtolower($event->name))) {
+            $tempEventName = "Appsterdam Lunch Event";
+        }
+
+        if (preg_match('/Business Chat/i', strtolower($event->name))) {
+            $tempEventName = "Appsterdam Business Chat";
+        }
+        
         // Add the event to the overall statistics.
         $stats['events']['overall'][$tempEventName] = (
             $stats['events']['overall'][$tempEventName] ?? 0
