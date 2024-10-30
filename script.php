@@ -102,8 +102,8 @@ foreach ($api_response as $year) {
             $tempEventName = "Guru Session";
         }
 
-        if (preg_match('/Bike Bridgade/i', strtolower($event->name))) {
-            $tempEventName = "Appsterdam Bike Bridgade";
+        if (preg_match('/Bike Bri(d)?gade/i', strtolower($event->name))) {
+            $tempEventName = "Appsterdam Bike Brigade";
         }
 
         if (preg_match('/Lunch Event/i', strtolower($event->name))) {
