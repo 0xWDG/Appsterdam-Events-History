@@ -86,7 +86,7 @@ foreach ($api_response as $year) {
             $tempEventName = "Weekend Fun";
         }
 
-        if (preg_match('/(WWL|Weekly Wednesday Lunchtime Lecture)/i', strtolower($event->name))) {
+        if (preg_match('/(WWL|Weekly Wednesday Lunchtime Lecture|Wednesday Lunchtime)/i', strtolower($event->name))) {
             $tempEventName = "Weekly Wednesday Lunchtime Lectures";
         }
 
@@ -102,11 +102,11 @@ foreach ($api_response as $year) {
             $tempEventName = "Guru Session";
         }
 
-        if (preg_match('/Appsterdam Bike Bridgade/i', strtolower($event->name))) {
+        if (preg_match('/Bike Bridgade/i', strtolower($event->name))) {
             $tempEventName = "Appsterdam Bike Bridgade";
         }
 
-        if (preg_match('/Appsterdam Lunch Event/i', strtolower($event->name))) {
+        if (preg_match('/Lunch Event/i', strtolower($event->name))) {
             $tempEventName = "Appsterdam Lunch Event";
         }
 
