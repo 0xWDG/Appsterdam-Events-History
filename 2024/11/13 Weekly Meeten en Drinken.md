@@ -1,12 +1,12 @@
 # Weekly Meeten en Drinken
-Held at 2024-11-13 at Cafe Bax with 6 Appsterdammers.
+Held at 2024-11-13 at Cafe Bax with 7 Appsterdammers.
         
 |Key|Value
 |---|---|
 |id|[rttrntygcpbrb](https://www.meetup.com/appsterdam/events/rttrntygcpbrb/)|
 |name|Weekly Meeten en Drinken|
 |organizer|Appsterdam|
-|attendees|6|
+|attendees|7|
 |begin date|2024-11-13|
 |end date|2024-11-13|
 |price|0|
