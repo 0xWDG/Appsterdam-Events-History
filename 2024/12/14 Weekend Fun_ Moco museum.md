@@ -1,12 +1,12 @@
 # Weekend Fun: Moco museum
-Held at 2024-12-14 at Moco Museum with 3 Appsterdammers.
+Held at 2024-12-14 at Moco Museum with 4 Appsterdammers.
         
 |Key|Value
 |---|---|
 |id|[298104101](https://www.meetup.com/appsterdam/events/298104101/)|
 |name|Weekend Fun: Moco museum|
 |organizer|Appsterdam|
-|attendees|3|
+|attendees|4|
 |begin date|2024-12-14|
 |end date|2024-12-14|
 |price|0|
