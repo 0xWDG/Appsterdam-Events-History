@@ -1,12 +1,12 @@
 # Weekly Meeten en Drinken
-Held at 2025-01-22 at Cafe Bax with 4 Appsterdammers.
+Held at 2025-01-22 at Cafe Bax with 6 Appsterdammers.
         
 |Key|Value
 |---|---|
 |id|[rttrntyhccbdc](https://www.meetup.com/appsterdam/events/rttrntyhccbdc/)|
 |name|Weekly Meeten en Drinken|
 |organizer|Appsterdam|
-|attendees|4|
+|attendees|6|
 |begin date|2025-01-22|
 |end date|2025-01-22|
 |price|0|
