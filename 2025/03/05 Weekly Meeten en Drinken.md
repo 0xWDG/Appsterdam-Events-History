@@ -1,12 +1,12 @@
 # Weekly Meeten en Drinken
-Held at 2025-03-05 at Cafe Bax with 0 Appsterdammers.
+Held at 2025-03-05 at Cafe Bax with 1 Appsterdammers.
         
 |Key|Value
 |---|---|
 |id|[rttrntyhcfbhb](https://www.meetup.com/appsterdam/events/rttrntyhcfbhb/)|
 |name|Weekly Meeten en Drinken|
 |organizer|Appsterdam|
-|attendees|0|
+|attendees|1|
 |begin date|2025-03-05|
 |end date|2025-03-05|
 |price|0|
