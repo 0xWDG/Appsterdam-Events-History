@@ -1,12 +1,12 @@
 # Appsterdam @ AppDevCon 2025
-Held at 2025-03-21 at Pathé Amsterdam Noord with 7 Appsterdammers.
+Held at 2025-03-21 at Pathé Amsterdam Noord with 8 Appsterdammers.
         
 |Key|Value
 |---|---|
 |id|[305899084](https://www.meetup.com/appsterdam/events/305899084/)|
 |name|Appsterdam @ AppDevCon 2025|
 |organizer|Appsterdam|
-|attendees|7|
+|attendees|8|
 |begin date|2025-03-21|
 |end date|2025-03-21|
 |price|0|
