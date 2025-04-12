@@ -1,14 +1,14 @@
 # Coffee Coding
-Held at 2025-04-19 at The Coffee Room with 5 Appsterdammers.
+Held at 2025-04-26 at The Coffee Room with 2 Appsterdammers.
         
 |Key|Value
 |---|---|
-|id|[307005832](https://www.meetup.com/appsterdam/events/307005832/)|
+|id|[307137018](https://www.meetup.com/appsterdam/events/307137018/)|
 |name|Coffee Coding|
 |organizer|Dániel Varga, Maike Warner|
-|attendees|5|
-|begin date|2025-04-19|
-|end date|2025-04-19|
+|attendees|2|
+|begin date|2025-04-26|
+|end date|2025-04-26|
 |price|0|
 |location name|The Coffee Room|
 |location address|Kinkerstraat 110, Amsterdam|
