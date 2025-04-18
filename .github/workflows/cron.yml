@@ -12,6 +12,7 @@ jobs:
     - name: Run & Deploy
       run: |
         php script.php
+        php gen_cal.php
     - name: Setup github env
       run: |
         git config --global user.name "${GITHUB_ACTOR}"
