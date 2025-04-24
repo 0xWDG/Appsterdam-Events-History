@@ -1,12 +1,12 @@
 # Weekend Fun: Fabrique des Lumières
-Held at 2025-04-27 at Fabrique des Lumières with 3 Appsterdammers.
+Held at 2025-04-27 at Fabrique des Lumières with 4 Appsterdammers.
         
 |Key|Value
 |---|---|
 |id|[307023211](https://www.meetup.com/appsterdam/events/307023211/)|
 |name|Weekend Fun: Fabrique des Lumières|
 |organizer|Wesley de Groot, Jake|
-|attendees|3|
+|attendees|4|
 |begin date|2025-04-27|
 |end date|2025-04-27|
 |price|0|
