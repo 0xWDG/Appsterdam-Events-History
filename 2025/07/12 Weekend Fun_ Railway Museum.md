@@ -1,12 +1,12 @@
 # Weekend Fun: Railway Museum
-Held at 2025-07-12 at Railway Museum Utrecht with 4 Appsterdammers.
+Held at 2025-07-12 at Railway Museum Utrecht with 5 Appsterdammers.
         
 |Key|Value
 |---|---|
 |id|[307025087](https://www.meetup.com/appsterdam/events/307025087/)|
 |name|Weekend Fun: Railway Museum|
 |organizer|Wesley de Groot, Jake|
-|attendees|4|
+|attendees|5|
 |begin date|2025-07-12|
 |end date|2025-07-12|
 |price|0|
