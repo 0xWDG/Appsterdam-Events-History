@@ -91,12 +91,17 @@ foreach ($events as $event) {
     $vEVENT .= sprintf("LOCATION:%s\n", isset($event['location']) ? $event['location'] : 'Online');
     $vEVENT .= sprintf("CLASS:PUBLIC\n");
     $vEVENT .= sprintf("STATUS:CONFIRMED\n");
+    $organizerCount = 0;
     foreach(explode(", ", $event['organizer']) as $organizer) {
-        $vEVENT .= sprintf("ORGANIZER;CN=\"%s\":MAILTO:%s@appsterdam.rs\n", $organizer, explode(" ", $organizer)[0]);
+        if ($organizerCount == 0) {
+           $vEVENT .= sprintf("ORGANIZER;CN=\"%s\":MAILTO:%s@appsterdam.rs\n", $organizer, explode(" ", $organizer)[0]);
+        }
+        $vEVENT .= sprintf("ATTENDEE;PARTSTAT=ACCEPTED;RSVP=TRUE;CN=\"%s\":MAILTO:%s@appsterdam.rs\n", $organizer, explode(" ", $organizer)[0]);
+        $organizerCount++;
     }
     // Attendees.
-    for($i=0; $i<$event['attendees']; $i++) {
-        $vEVENT .= sprintf("ATTENDEE;RSVP=TRUE;CN=\"%s\":MAILTO:%s@attendee.appsterdam.rs\n", "Attendee $i", $i);
+    for($i=0; $i<($event['attendees']-2); $i++) {
+        $vEVENT .= sprintf("ATTENDEE;PARTSTAT=ACCEPTED;RSVP=TRUE;CN=\"%s\":MAILTO:%s@attendee.appsterdam.rs\n", "Attendee $i", $i);
     }
     $vEVENT .= sprintf("CATEGORIES:Appsterdam Events\n");
     $vEVENT .= sprintf("URL:%s\n", $event['url']);
