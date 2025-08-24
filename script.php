@@ -225,10 +225,10 @@ file_put_contents('HISTORY.md', $history_md);
 // Create the statistics file.
 $statistics_md = "# Appsterdam Events Statistics\n\n";
 $statistics_md .= sprintf(
-    "<a href='webcal://0xwdg.github.io/Appsterdam-Events-History/calendar.ics'>Subscribe to event calendar</a>\n\n"
+    "<a href='https://0xwdg.github.io/Appsterdam-Events-History/calendar.ics'>Download event calendar</a>\n\n"
 );
 $statistics_md .= sprintf(
-    "<a href='ical://0xwdg.github.io/Appsterdam-Events-History/calendar.ics'>Subscribe to event calendar</a>\n\n"
+    "<a href='webcal://0xwdg.github.io/Appsterdam-Events-History/calendar.ics'>Subscribe to event calendar</a>\n\n"
 );
 $statistics_md .= sprintf(
     "<a href='%s/blob/main/HISTORY.md'>See historic events here</a>\n\n",
