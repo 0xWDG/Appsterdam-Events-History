@@ -1,12 +1,12 @@
 # Weekend Fun: Zuiderzeemuseum
-Held at 2025-08-30 at Zuiderzee Museum with 3 Appsterdammers.
+Held at 2025-08-30 at Zuiderzee Museum with 7 Appsterdammers.
         
 |Key|Value
 |---|---|
 |id|[307025178](https://www.meetup.com/appsterdam/events/307025178/)|
 |name|Weekend Fun: Zuiderzeemuseum|
 |organizer|Wesley de Groot, Jake|
-|attendees|3|
+|attendees|7|
 |begin date|2025-08-30|
 |end date|2025-08-30|
 |price|0|
