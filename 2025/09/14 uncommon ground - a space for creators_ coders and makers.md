@@ -1,12 +1,12 @@
 # uncommon ground - a space for creators, coders and makers
-Held at 2025-09-14 at Da Vinci Creatieve Ruimtes with 27 Appsterdammers.
+Held at 2025-09-14 at Da Vinci Creatieve Ruimtes with 36 Appsterdammers.
         
 |Key|Value
 |---|---|
 |id|[310869243](https://www.meetup.com/appsterdam/events/310869243/)|
 |name|uncommon ground - a space for creators, coders and makers|
 |organizer|Josefine Quack|
-|attendees|27|
+|attendees|36|
 |begin date|2025-09-14|
 |end date|2025-09-14|
 |price|0|
@@ -23,3 +23,5 @@ The concept is simple: no workshops, no formal program, just an open space where
 People can learn and inspire each other.
 The event is intended to cross-pollination between different disciplines, spark fresh ideas, and inspire participants to explore skills outside their comfort zone.
 Everyone is welcome, regardless of background or experience.
+
+To enter, please find the uncommon ground sign at the gate and call 0618765840 so we can open the door for you.
