@@ -12,14 +12,12 @@ Held at 2011-07-15 at Station Bloemendaal with 14 Appsterdammers.
 |price|0|
 |location name|Station Bloemendaal|
 |location address|Zuiderstationsweg 18-20, Bloemendaal|
-|latitude|52.404947|
-|longitude|4.620185|
-|(in-app) icon|🍺|
+|latitude|0|
+|longitude|0|
+|(in-app) icon|https://secure.meetupstatic.com/photos/event/9/6/3/4/highres_518678452.jpeg|
 
 ---
 
 Appsterdam will be present on PICINIC 2011 (14 sept - 16 sept). But what are we going to do there? Come to this meet up and discus with us about what to do and about what NOT to do. This Meetup is sponored by bITa Center and they will provide free drinks!
 
 Hope to see you there!
-
-

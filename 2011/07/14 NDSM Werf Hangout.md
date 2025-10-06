@@ -1,5 +1,5 @@
 # NDSM Werf Hangout
-Held at 2011-07-14 at Appsterdam HQ with 3 Appsterdammers.
+Held at 2011-07-14 at Stichting NDSM-Werf with 3 Appsterdammers.
         
 |Key|Value
 |---|---|
@@ -10,14 +10,12 @@ Held at 2011-07-14 at Appsterdam HQ with 3 Appsterdammers.
 |begin date|2011-07-14|
 |end date|2011-07-14|
 |price|0|
-|location name|Appsterdam HQ|
-|location address|Oudebrugsteeg 9, 1012JN, Amsterdam|
-|latitude|52.37505|
-|longitude|4.89631|
-|(in-app) icon|person.3.fill|
+|location name|Stichting NDSM-Werf|
+|location address|Neveritaweg 61, Amsterdam|
+|latitude|0|
+|longitude|0|
+|(in-app) icon|https://secure.meetupstatic.com/photos/event/9/6/3/4/highres_518678452.jpeg|
 
 ---
 
 There is Wifi, coffee and tea, but bring your lunch.
-
-

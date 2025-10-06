@@ -12,8 +12,8 @@ Held at 2011-07-27 at Cafe Belvedere with 13 Appsterdammers.
 |price|0|
 |location name|Cafe Belvedere|
 |location address|Beestenmarkt, Delft|
-|latitude|52.01128|
-|longitude|4.362763|
+|latitude|0|
+|longitude|0|
 |(in-app) icon|🍺|
 
 ---

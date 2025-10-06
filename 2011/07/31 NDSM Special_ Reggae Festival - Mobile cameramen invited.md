@@ -1,24 +1,24 @@
 # NDSM Special: Reggae Festival - Mobile cameramen invited
-Held at 2011-07-31 at Appsterdam HQ with 3 Appsterdammers.
+Held at 2011-07-31 at Stichting NDSM-Werf with 3 Appsterdammers.
         
 |Key|Value
 |---|---|
 |id|[27472151](https://www.meetup.com/appsterdam/events/27472151/)|
 |name|NDSM Special: Reggae Festival - Mobile cameramen invited|
-|organizer|Appsterdam|
+|organizer|Martinus Meiborg|
 |attendees|3|
 |begin date|2011-07-31|
 |end date|2011-07-31|
 |price|0|
-|location name|Appsterdam HQ|
-|location address|Oudebrugsteeg 9, 1012JN, Amsterdam|
-|latitude|52.37505|
-|longitude|4.89631|
-|(in-app) icon|🖥|
+|location name|Stichting NDSM-Werf|
+|location address|Neveritaweg 61, Amsterdam|
+|latitude|0|
+|longitude|0|
+|(in-app) icon|https://secure.meetupstatic.com/photos/event/9/6/3/4/highres_518678452.jpeg|
 
 ---
 
-On Sunday June 31 the [Amsterdam Reggae Festival](http://worldareggae.com/) is held.
+On Sunday June 31 the Amsterdam Reggae Festival (http://worldareggae.com/) is held.
 
 There are 7 back free stage tickets available for Appsterdammers interested to help shooting a live registration around and on the main stage using a streaming app.
 
@@ -30,12 +30,4 @@ We'll gather at the NDSM hangout at noon. You may want to bring earplugs.
 
 Please RSVP also for waiting list. More events may come up.
 
- 
-
-<img src="http://photos1.meetupstatic.com/photos/event/a/c/5/9/event_43844121.jpeg" />
-
- 
-
- 
-
-
+http://photos1.meetupstatic.com/photos/event/a/c/5/9/event_43844121.jpeg

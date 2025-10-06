@@ -1,5 +1,5 @@
 # villa Vrijenban Hangout
-Held at 2011-07-27 at Appsterdam HQ with 2 Appsterdammers.
+Held at 2011-07-27 at Grand Cafe SPING with 2 Appsterdammers.
         
 |Key|Value
 |---|---|
@@ -10,14 +10,12 @@ Held at 2011-07-27 at Appsterdam HQ with 2 Appsterdammers.
 |begin date|2011-07-27|
 |end date|2011-07-27|
 |price|0|
-|location name|Appsterdam HQ|
-|location address|Oudebrugsteeg 9, 1012JN, Amsterdam|
-|latitude|52.37505|
-|longitude|4.89631|
-|(in-app) icon|person.3.fill|
+|location name|Grand Cafe SPING|
+|location address|Nieuwe Plantage 58, Delft|
+|latitude|0|
+|longitude|0|
+|(in-app) icon|https://secure.meetupstatic.com/photos/event/9/6/3/4/highres_518678452.jpeg|
 
 ---
 
 Welcome to join us in Appsterdam satallite city Delft. Innovative ICT company and incubator SPING offers its Grand cafe for a day to work among colleagues for a couple of hours or to meet. There is Wifi, coffee, tea and lunch.
-
-
