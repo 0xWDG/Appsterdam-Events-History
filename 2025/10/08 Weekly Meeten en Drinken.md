@@ -1,12 +1,12 @@
 # Weekly Meeten en Drinken
-Held at 2025-10-08 at Cafe Bax with 1 Appsterdammers.
+Held at 2025-10-08 at Cafe Bax with 2 Appsterdammers.
         
 |Key|Value
 |---|---|
 |id|[306405133](https://www.meetup.com/appsterdam/events/306405133/)|
 |name|Weekly Meeten en Drinken|
 |organizer|Unknown, Jake|
-|attendees|1|
+|attendees|2|
 |begin date|2025-10-08|
 |end date|2025-10-08|
 |price|0|
