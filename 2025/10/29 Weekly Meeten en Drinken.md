@@ -1,12 +1,12 @@
 # Weekly Meeten en Drinken
-Held at 2025-10-29 at Cafe Bax with 3 Appsterdammers.
+Held at 2025-10-29 at Cafe Bax with 4 Appsterdammers.
         
 |Key|Value
 |---|---|
 |id|[306405140](https://www.meetup.com/appsterdam/events/306405140/)|
 |name|Weekly Meeten en Drinken|
 |organizer|Wesley de Groot|
-|attendees|3|
+|attendees|4|
 |begin date|2025-10-29|
 |end date|2025-10-29|
 |price|0|
