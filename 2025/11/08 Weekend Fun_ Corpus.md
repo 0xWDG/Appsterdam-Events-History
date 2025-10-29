@@ -1,12 +1,12 @@
 # Weekend Fun: Corpus
-Held at 2025-11-08 at The Corpus Congress Centre with 3 Appsterdammers.
+Held at 2025-11-08 at The Corpus Congress Centre with 4 Appsterdammers.
         
 |Key|Value
 |---|---|
 |id|[307026064](https://www.meetup.com/appsterdam/events/307026064/)|
 |name|Weekend Fun: Corpus|
 |organizer|Wesley de Groot, Jake, Ruslan|
-|attendees|3|
+|attendees|4|
 |begin date|2025-11-08|
 |end date|2025-11-08|
 |price|0|
