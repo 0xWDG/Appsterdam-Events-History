@@ -3,7 +3,7 @@ Held at 2025-12-06 at The Coffee Room with 2 Appsterdammers.
         
 |Key|Value
 |---|---|
-|id|[fcqfqtyhcqbjb](https://www.meetup.com/appsterdam/events/fcqfqtyhcqbjb/)|
+|id|[312031345](https://www.meetup.com/appsterdam/events/312031345/)|
 |name|Coffee Coding|
 |organizer|Dániel Varga, Maike Warner|
 |attendees|2|
