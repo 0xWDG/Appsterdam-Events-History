@@ -1,12 +1,12 @@
 # Coffee Coding
-Held at 2025-11-22 at The Coffee Room with 3 Appsterdammers.
+Held at 2025-11-22 at The Coffee Room with 2 Appsterdammers.
         
 |Key|Value
 |---|---|
-|id|[311820532](https://www.meetup.com/appsterdam/events/311820532/)|
+|id|[fcqfqtyhcpbdc](https://www.meetup.com/appsterdam/events/fcqfqtyhcpbdc/)|
 |name|Coffee Coding|
 |organizer|Dániel Varga, Maike Warner|
-|attendees|3|
+|attendees|2|
 |begin date|2025-11-22|
 |end date|2025-11-22|
 |price|0|
