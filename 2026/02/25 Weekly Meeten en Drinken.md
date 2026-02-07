@@ -1,12 +1,12 @@
 # Weekly Meeten en Drinken
-Held at 2026-02-25 at Cafe Bax with 1 Appsterdammers.
+Held at 2026-02-25 at Cafe Bax with 3 Appsterdammers.
         
 |Key|Value
 |---|---|
-|id|[bcqfqtyjcdbhc](https://www.meetup.com/appsterdam/events/bcqfqtyjcdbhc/)|
+|id|[312953642](https://www.meetup.com/appsterdam/events/312953642/)|
 |name|Weekly Meeten en Drinken|
 |organizer|Wesley de Groot|
-|attendees|1|
+|attendees|3|
 |begin date|2026-02-25|
 |end date|2026-02-25|
 |price|0|
