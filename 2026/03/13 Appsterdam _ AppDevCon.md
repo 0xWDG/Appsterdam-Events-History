@@ -1,12 +1,12 @@
 # Appsterdam @ AppDevCon
-Held at 2026-03-13 at Pathé Amsterdam Noord with 7 Appsterdammers.
+Held at 2026-03-13 at Pathé Amsterdam Noord with 6 Appsterdammers.
         
 |Key|Value
 |---|---|
 |id|[313204830](https://www.meetup.com/appsterdam/events/313204830/)|
 |name|Appsterdam @ AppDevCon|
 |organizer|Eugene Koontz, Wesley de Groot, Dániel Varga, Maike Warner|
-|attendees|7|
+|attendees|6|
 |begin date|2026-03-13|
 |end date|2026-03-13|
 |price|0|

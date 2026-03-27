@@ -1,12 +1,12 @@
 # uncommon ground - a space for creators, coders and makers
-Held at 2026-01-11 at post-office with 23 Appsterdammers.
+Held at 2026-01-11 at post-office with 20 Appsterdammers.
         
 |Key|Value
 |---|---|
 |id|[312642948](https://www.meetup.com/appsterdam/events/312642948/)|
 |name|uncommon ground - a space for creators, coders and makers|
 |organizer|Josefine Quack|
-|attendees|23|
+|attendees|20|
 |begin date|2026-01-11|
 |end date|2026-01-11|
 |price|0|

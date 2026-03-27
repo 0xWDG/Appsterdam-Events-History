@@ -1,12 +1,12 @@
 # Weekend Fun: Modelspoordagen
-Held at 2026-03-07 at De Broodfabriek Volmerlaan 12 Rijwijk with 3 Appsterdammers.
+Held at 2026-03-07 at De Broodfabriek Volmerlaan 12 Rijwijk with 5 Appsterdammers.
         
 |Key|Value
 |---|---|
 |id|[313002206](https://www.meetup.com/appsterdam/events/313002206/)|
 |name|Weekend Fun: Modelspoordagen|
 |organizer|Eugene Koontz, Wesley de Groot, Jake|
-|attendees|3|
+|attendees|5|
 |begin date|2026-03-07|
 |end date|2026-03-07|
 |price|0|
