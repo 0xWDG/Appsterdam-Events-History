@@ -1,12 +1,12 @@
 # Weekend Fun: Super Mario Experience
-Held at 2026-04-04 at Hoog Catharijne with 6 Appsterdammers.
+Held at 2026-04-04 at Hoog Catharijne with 8 Appsterdammers.
         
 |Key|Value
 |---|---|
 |id|[313960400](https://www.meetup.com/appsterdam/events/313960400/)|
 |name|Weekend Fun: Super Mario Experience|
 |organizer|Wesley de Groot, Jake|
-|attendees|6|
+|attendees|8|
 |begin date|2026-04-04|
 |end date|2026-04-04|
 |price|0|
@@ -18,7 +18,7 @@ Held at 2026-04-04 at Hoog Catharijne with 6 Appsterdammers.
 
 ---
 
-What would be a better way to spend your Saturday than getting together with Appsterdammers, their friends and families to visit The [Suprer Mario Bros Experience](https://www.nintendo.com/nl-nl/Nieuws/2026/Maart/LET-S-A-GO-Nintendo-viert-40-jaar-Super-Mario-Bros-met-Super-Mario-Experience-in-Utrecht-3037053.html)!
+What would be a better way to spend your Saturday than getting together with Appsterdammers, their friends and families to visit the [Super Mario Experience](https://www.nintendo.com/nl-nl/Nieuws/2026/Maart/LET-S-A-GO-Nintendo-viert-40-jaar-Super-Mario-Bros-met-Super-Mario-Experience-in-Utrecht-3037053.html)!
 
 Pricing: Free
 
