@@ -3,7 +3,7 @@ Held at 2025-12-31 at Cafe Bax with 1 Appsterdammers.
         
 |Key|Value
 |---|---|
-|id|[bcqfqtyhcqbpc](https://www.meetup.com/appsterdam/events/bcqfqtyhcqbpc/)|
+|id|[312396859](https://www.meetup.com/appsterdam/events/312396859/)|
 |name|Weekly Meeten en Drinken|
 |organizer|Wesley de Groot|
 |attendees|1|
