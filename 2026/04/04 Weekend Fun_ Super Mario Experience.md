@@ -1,12 +1,12 @@
 # Weekend Fun: Super Mario Experience
-Held at 2026-04-04 at Hoog Catharijne with 8 Appsterdammers.
+Held at 2026-04-04 at Hoog Catharijne with 9 Appsterdammers.
         
 |Key|Value
 |---|---|
 |id|[313960400](https://www.meetup.com/appsterdam/events/313960400/)|
 |name|Weekend Fun: Super Mario Experience|
 |organizer|Wesley de Groot, Jake|
-|attendees|8|
+|attendees|9|
 |begin date|2026-04-04|
 |end date|2026-04-04|
 |price|0|
