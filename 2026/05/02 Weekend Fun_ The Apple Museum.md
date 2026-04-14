@@ -1,12 +1,12 @@
 # Weekend Fun: The Apple Museum
-Held at 2026-05-02 at The Wall with 3 Appsterdammers.
+Held at 2026-05-02 at The Wall with 4 Appsterdammers.
         
 |Key|Value
 |---|---|
 |id|[314260720](https://www.meetup.com/appsterdam/events/314260720/)|
 |name|Weekend Fun: The Apple Museum|
 |organizer|Jake, Wesley de Groot|
-|attendees|3|
+|attendees|4|
 |begin date|2026-05-02|
 |end date|2026-05-02|
 |price|0|
