@@ -1,12 +1,12 @@
 # Coffee Coding
-Held at 2026-04-25 at The Coffee Room with 4 Appsterdammers.
+Held at 2026-04-25 at The Coffee Room with 6 Appsterdammers.
         
 |Key|Value
 |---|---|
 |id|[313046451](https://www.meetup.com/appsterdam/events/313046451/)|
 |name|Coffee Coding|
 |organizer|Dániel Varga, Maike Warner|
-|attendees|4|
+|attendees|6|
 |begin date|2026-04-25|
 |end date|2026-04-25|
 |price|0|
