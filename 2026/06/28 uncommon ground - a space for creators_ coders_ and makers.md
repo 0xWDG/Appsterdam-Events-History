@@ -1,12 +1,12 @@
 # uncommon ground - a space for creators, coders, and makers
-Held at 2026-06-28 at 001 Commandantswoning | Marineterrein with 21 Appsterdammers.
+Held at 2026-06-28 at 001 Commandantswoning | Marineterrein with 22 Appsterdammers.
         
 |Key|Value
 |---|---|
 |id|[314966162](https://www.meetup.com/appsterdam/events/314966162/)|
 |name|uncommon ground - a space for creators, coders, and makers|
 |organizer|Josefine Quack|
-|attendees|21|
+|attendees|22|
 |begin date|2026-06-28|
 |end date|2026-06-28|
 |price|0|
