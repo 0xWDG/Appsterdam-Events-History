@@ -18,7 +18,7 @@ X-PUBLISHED-TTL:PT24H
 ";
 
 // if safari then return as plain text
-if (strpos($_SERVER['HTTP_USER_AGENT'], 'Safari') !== false && PHP_OS == 'Darwin') {
+if (isset($_SERVER['HTTP_USER_AGENT']) && strpos($_SERVER['HTTP_USER_AGENT'], 'Safari') !== false && PHP_OS == 'Darwin') {
     header('Content-Type: text/plain; charset=utf-8');
 }
 
@@ -109,8 +109,6 @@ foreach ($events as $event) {
     $vCAL .= $vEVENT;
 }
 $vCAL .= "END:VCALENDAR";
-
-echo $vCAL;
 
 file_put_contents(
     __DIR__ . '/calendar.ics',
