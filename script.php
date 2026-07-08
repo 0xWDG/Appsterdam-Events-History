@@ -90,6 +90,17 @@ foreach ($api_response as $year) {
             $tempEventName = "Weekly Wednesday Lunchtime Lectures";
         }
 
+        if (preg_match('/uncommon ground/i', strtolower($event->name))) {
+            $tempEventName = "uncommon ground - a space for creators, coders, and makers";
+        }
+
+        if (
+            preg_match('/Meeten en Drinken/i', strtolower($event->name)) ||
+            preg_match('/Weekly Meeten en (Day) Drinken/i', strtolower($event->name))
+        ) {
+            $tempEventName = "Weekly Meeten en Drinken";
+        }
+
         if (preg_match('/Guru Session/i', strtolower($event->name))) {
             $tempEventName = "Guru Session";
         }
