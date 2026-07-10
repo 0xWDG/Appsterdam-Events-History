@@ -3,7 +3,7 @@ Held at 2023-01-04 at Cafe Bax with 8 Appsterdammers.
         
 |Key|Value
 |---|---|
-|id|[vsqbssyfccbgb](https://www.meetup.com/appsterdam/events/vsqbssyfccbgb/)|
+|id|[bjplbtyfccbgb](https://www.meetup.com/appsterdam/events/bjplbtyfccbgb/)|
 |name|Weekly Meeten en Drinken|
 |organizer|Appsterdam|
 |attendees|8|

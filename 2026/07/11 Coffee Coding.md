@@ -1,12 +1,12 @@
 # Coffee Coding
-Held at 2026-07-11 at The Coffee Room with 4 Appsterdammers.
+Held at 2026-07-11 at The Coffee Room with 5 Appsterdammers.
         
 |Key|Value
 |---|---|
 |id|[315351021](https://www.meetup.com/appsterdam/events/315351021/)|
 |name|Coffee Coding|
 |organizer|Dániel Varga, Maike Warner|
-|attendees|4|
+|attendees|5|
 |begin date|2026-07-11|
 |end date|2026-07-11|
 |price|0|
@@ -17,10 +17,6 @@ Held at 2026-07-11 at The Coffee Room with 4 Appsterdammers.
 |(in-app) icon|note.text|
 
 ---
-
-BACK TO COFFEE ROOM AGAIN!
-
-Welcome to Appsterdam.
 
 Whether you are a seasoned programmer or learning to code Apps, wouldn’t it be cool to run by your challenge with another programmer when you get stuck? Or you have questions, or simply want to be in the environment of other like-minded friends while you work on your project?
 

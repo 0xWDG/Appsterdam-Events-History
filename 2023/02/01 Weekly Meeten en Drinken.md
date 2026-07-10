@@ -1,12 +1,12 @@
 # Weekly Meeten en Drinken
-Held at 2023-02-01 at Cafe Bax with 5 Appsterdammers.
+Held at 2023-02-01 at Cafe Bax with 11 Appsterdammers.
         
 |Key|Value
 |---|---|
-|id|[vsqbssyfcdbcb](https://www.meetup.com/appsterdam/events/vsqbssyfcdbcb/)|
+|id|[mnbmbtyfcdbcb](https://www.meetup.com/appsterdam/events/mnbmbtyfcdbcb/)|
 |name|Weekly Meeten en Drinken|
 |organizer|Appsterdam|
-|attendees|5|
+|attendees|11|
 |begin date|2023-02-01|
 |end date|2023-02-01|
 |price|0|

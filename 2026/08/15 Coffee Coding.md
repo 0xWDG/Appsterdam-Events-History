@@ -3,7 +3,7 @@ Held at 2026-08-15 at The Coffee Room with 2 Appsterdammers.
         
 |Key|Value
 |---|---|
-|id|[ppssvtyjclbtb](https://www.meetup.com/appsterdam/events/ppssvtyjclbtb/)|
+|id|[gndhztyjclbtb](https://www.meetup.com/appsterdam/events/gndhztyjclbtb/)|
 |name|Coffee Coding|
 |organizer|Dániel Varga, Maike Warner|
 |attendees|2|
@@ -17,10 +17,6 @@ Held at 2026-08-15 at The Coffee Room with 2 Appsterdammers.
 |(in-app) icon|note.text|
 
 ---
-
-BACK TO COFFEE ROOM AGAIN!
-
-Welcome to Appsterdam.
 
 Whether you are a seasoned programmer or learning to code Apps, wouldn’t it be cool to run by your challenge with another programmer when you get stuck? Or you have questions, or simply want to be in the environment of other like-minded friends while you work on your project?
 

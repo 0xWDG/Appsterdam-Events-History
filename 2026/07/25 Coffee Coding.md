@@ -18,10 +18,6 @@ Held at 2026-07-25 at The Coffee Room with 2 Appsterdammers.
 
 ---
 
-BACK TO COFFEE ROOM AGAIN!
-
-Welcome to Appsterdam.
-
 Whether you are a seasoned programmer or learning to code Apps, wouldn’t it be cool to run by your challenge with another programmer when you get stuck? Or you have questions, or simply want to be in the environment of other like-minded friends while you work on your project?
 
 Welcome to Appsterdam.

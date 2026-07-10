@@ -1,12 +1,12 @@
 # Coffee Coding
-Held at 2023-11-11 at The Coffee Room with 2 Appsterdammers.
+Held at 2023-11-11 at The Coffee Room with 8 Appsterdammers.
         
 |Key|Value
 |---|---|
-|id|[xvfsdtyfcpbpb](https://www.meetup.com/appsterdam/events/xvfsdtyfcpbpb/)|
+|id|[vvlvhtyfcpbpb](https://www.meetup.com/appsterdam/events/vvlvhtyfcpbpb/)|
 |name|Coffee Coding|
 |organizer|Appsterdam|
-|attendees|2|
+|attendees|8|
 |begin date|2023-11-11|
 |end date|2023-11-11|
 |price|0|

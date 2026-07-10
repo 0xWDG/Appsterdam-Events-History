@@ -1,12 +1,12 @@
 # Weekend Fun: Naturalis
-Held at 2026-08-08 at Naturalis Biodiversity Center with 5 Appsterdammers.
+Held at 2026-08-08 at Naturalis Biodiversity Center with 6 Appsterdammers.
         
 |Key|Value
 |---|---|
 |id|[315610663](https://www.meetup.com/appsterdam/events/315610663/)|
 |name|Weekend Fun: Naturalis|
 |organizer|Wesley de Groot, Jake|
-|attendees|5|
+|attendees|6|
 |begin date|2026-08-08|
 |end date|2026-08-08|
 |price|0|

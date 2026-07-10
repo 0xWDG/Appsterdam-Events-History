@@ -1,19 +1,19 @@
 # Coffee Coding
-Held at 2025-03-29 at The Coffee Room with 3 Appsterdammers.
+Held at 2025-03-29 at The Coffee Room with 6 Appsterdammers.
         
 |Key|Value
 |---|---|
-|id|[vvlvhtyhcfbmc](https://www.meetup.com/appsterdam/events/vvlvhtyhcfbmc/)|
+|id|[306218880](https://www.meetup.com/appsterdam/events/306218880/)|
 |name|Coffee Coding|
-|organizer|Appsterdam|
-|attendees|3|
+|organizer|Dániel Varga, Maike Warner|
+|attendees|6|
 |begin date|2025-03-29|
 |end date|2025-03-29|
 |price|0|
 |location name|The Coffee Room|
 |location address|Kinkerstraat 110, Amsterdam|
-|latitude|52.367076873779|
-|longitude|4.8711910247803|
+|latitude|0|
+|longitude|0|
 |(in-app) icon|note.text|
 
 ---
@@ -54,4 +54,4 @@ Just ask and maybe we can help you with:
 
 • Rust
 
-• UX/UI Design (Adobe XD, Balsamiq, Keynote, Sketch, Figma) 
+• UX/UI Design (Adobe XD, Balsamiq, Keynote, Sketch, Figma)
