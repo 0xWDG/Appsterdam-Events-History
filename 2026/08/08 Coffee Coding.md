@@ -3,7 +3,7 @@ Held at 2026-08-08 at The Coffee Room with 2 Appsterdammers.
         
 |Key|Value
 |---|---|
-|id|[gndhztyjclblb](https://www.meetup.com/appsterdam/events/gndhztyjclblb/)|
+|id|[315745056](https://www.meetup.com/appsterdam/events/315745056/)|
 |name|Coffee Coding|
 |organizer|Dániel Varga, Maike Warner|
 |attendees|2|
