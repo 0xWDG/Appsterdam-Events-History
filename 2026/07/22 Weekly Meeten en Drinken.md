@@ -5,7 +5,7 @@ Held at 2026-07-22 at Cafe Bax with 2 Appsterdammers.
 |---|---|
 |id|[312986086](https://www.meetup.com/appsterdam/events/312986086/)|
 |name|Weekly Meeten en Drinken|
-|organizer|Wesley de Groot|
+|organizer|Unknown|
 |attendees|2|
 |begin date|2026-07-22|
 |end date|2026-07-22|
