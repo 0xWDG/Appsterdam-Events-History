@@ -1,14 +1,14 @@
 # Weekly Meeten en Drinken
-Held at 2026-07-22 at Cafe Bax with 2 Appsterdammers.
+Held at 2026-12-02 at Cafe Bax with 2 Appsterdammers.
         
 |Key|Value
 |---|---|
-|id|[312986086](https://www.meetup.com/appsterdam/events/312986086/)|
+|id|[312986136](https://www.meetup.com/appsterdam/events/312986136/)|
 |name|Weekly Meeten en Drinken|
 |organizer|Wesley de Groot|
 |attendees|2|
-|begin date|2026-07-22|
-|end date|2026-07-22|
+|begin date|2026-12-02|
+|end date|2026-12-02|
 |price|0|
 |location name|Cafe Bax|
 |location address|Ten Katestraat 119, Amsterdam|
