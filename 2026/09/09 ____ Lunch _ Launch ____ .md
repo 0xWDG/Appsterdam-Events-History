@@ -1,12 +1,12 @@
 # 🥪 Lunch & Launch 🚀 
-Held at 2026-09-09 at Marineterrein Commandantswoning with 4 Appsterdammers.
+Held at 2026-09-09 at Marineterrein Commandantswoning with 6 Appsterdammers.
         
 |Key|Value
 |---|---|
 |id|[316183769](https://www.meetup.com/appsterdam/events/316183769/)|
 |name|🥪 Lunch & Launch 🚀 |
 |organizer|Tom van Arman|
-|attendees|4|
+|attendees|6|
 |begin date|2026-09-09|
 |end date|2026-09-09|
 |price|0|
@@ -14,7 +14,7 @@ Held at 2026-09-09 at Marineterrein Commandantswoning with 4 Appsterdammers.
 |location address|Kattenburgerstraat 5, Commandantswoning, Amsterdam|
 |latitude|0|
 |longitude|0|
-|(in-app) icon|https://secure.meetupstatic.com/photos/event/9/6/3/4/highres_518678452.jpeg|
+|(in-app) icon|https://secure.meetupstatic.com/photos/event/2/0/b/highres_535740523.jpeg|
 
 ---
 
