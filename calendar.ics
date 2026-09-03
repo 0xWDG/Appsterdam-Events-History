@@ -13,21 +13,6 @@ X-WR-TIMEZONE:Europe/Amsterdam
 REFRESH-INTERVAL;VALUE=DURATION:PT24H
 X-PUBLISHED-TTL:PT24H
 BEGIN:VEVENT
-UID:81305c6ace9ef5beb9c5803d80ebd9ca@events.appsterdam.rs
-SUMMARY:Weekly Meeten en Drinken
-DESCRIPTION:Ahoy, fellow Appsterdammers!\nIf you feel like it's time to start slowly getting used to being social again, maybe you'd like to warm up with your fellow makers, nerds, and other technology enthusiasts, who might better understand your specific interests and social style.\nJoin us in the cozy cafe where Appsterdam was born, at an earlier than usual time, to enjoy their legendary terrace and its ongoing attempts to comply with an ever-shifting landscape of rules — something many App Makers will understand!\nYes, even after ten long years and a pandemic, this is still the place for you to meet your fellow Appsterdammers, get to know members of the community, meet a potential business partner, bring your app to share with others, exchange ideas with like-minded people... No talks are ever scheduled and everyone is always welcome to join.\nBe sure to ask the waitress/waiter about their seasonal beers and grab a snack to share with your friends. All Appsterdammers get 10% off the entire bill, so order whatever you want to eat/drink. Then sit back and enjoy the company of your peers.\nThe day is always Wednesday. The place is always [Café Bax](http://www.cafebax.nl/). The time, for now, is 19:00.\nPlease note: It's a very casual event so people often don't RSVP or show up exactly on time. But don't fear, you can always find Appsterdammers at this event! Not sure you're in the right place? Just ask the staff!
-DTSTART:20260902T190000
-DTEND:20260902T220000
-LOCATION:Ten Katestraat 119, Amsterdam
-CLASS:PUBLIC
-STATUS:CONFIRMED
-ORGANIZER;CN="Wesley de Groot":MAILTO:Wesley@appsterdam.rs
-ATTENDEE;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Wesley de Groot":MAILTO:Wesley@appsterdam.rs
-ATTENDEE;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Attendee 0":MAILTO:0@attendee.appsterdam.rs
-CATEGORIES:Appsterdam Events
-URL:https://meetup.com/appsterdam/events/312986097
-END:VEVENT
-BEGIN:VEVENT
 UID:28c7b71dd4d93bfa3efa8e25fb7e14b8@events.appsterdam.rs
 SUMMARY:Coffee Coding
 DESCRIPTION:Whether you are a seasoned programmer or learning to code Apps, wouldn’t it be cool to run by your challenge with another programmer when you get stuck? Or you have questions, or simply want to be in the environment of other like-minded friends while you work on your project?\n\nWelcome to Appsterdam.\n\nBring your laptop and get feedback, encouragement and support, no matter what level you are at.\n\nShare and contribute. Get guidance. Feel good.\n\nAll levels are welcome, so don’t be shy.\n\nIn the future we plan to have break-out sessions where we will have short talks on valuable topics and also conduct mini-hackathons where all of us get to participate and learn together.\n\nMaike and Daniel are super committed to have an inspired group.\n\nWe start at 9:30 and end at 11:30 sharp, so some a bit closer to 9:30 to make sure you get the help you desire.\n\nJust ask and maybe we can help you with:\n\n• Android Development\n\n• iOS Development\n\n• Flutter Development\n\n• C++\n\n• JavaScript\n\n• Python\n\n• Rust\n\n• UX/UI Design (Adobe XD, Balsamiq, Keynote, Sketch, Figma)
@@ -58,6 +43,7 @@ ATTENDEE;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Attendee 0":MAILTO:0@attendee.appsterda
 ATTENDEE;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Attendee 1":MAILTO:1@attendee.appsterdam.rs
 ATTENDEE;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Attendee 2":MAILTO:2@attendee.appsterdam.rs
 ATTENDEE;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Attendee 3":MAILTO:3@attendee.appsterdam.rs
+ATTENDEE;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Attendee 4":MAILTO:4@attendee.appsterdam.rs
 CATEGORIES:Appsterdam Events
 URL:https://meetup.com/appsterdam/events/316183769
 END:VEVENT
@@ -460,6 +446,23 @@ CATEGORIES:Appsterdam Events
 URL:https://meetup.com/appsterdam/events/312986137
 END:VEVENT
 BEGIN:VEVENT
+UID:81305c6ace9ef5beb9c5803d80ebd9ca@events.appsterdam.rs
+SUMMARY:Weekly Meeten en Drinken
+DESCRIPTION:Ahoy, fellow Appsterdammers!\nIf you feel like it's time to start slowly getting used to being social again, maybe you'd like to warm up with your fellow makers, nerds, and other technology enthusiasts, who might better understand your specific interests and social style.\nJoin us in the cozy cafe where Appsterdam was born, at an earlier than usual time, to enjoy their legendary terrace and its ongoing attempts to comply with an ever-shifting landscape of rules — something many App Makers will understand!\nYes, even after ten long years and a pandemic, this is still the place for you to meet your fellow Appsterdammers, get to know members of the community, meet a potential business partner, bring your app to share with others, exchange ideas with like-minded people... No talks are ever scheduled and everyone is always welcome to join.\nBe sure to ask the waitress/waiter about their seasonal beers and grab a snack to share with your friends. All Appsterdammers get 10% off the entire bill, so order whatever you want to eat/drink. Then sit back and enjoy the company of your peers.\nThe day is always Wednesday. The place is always [Café Bax](http://www.cafebax.nl/). The time, for now, is 19:00.\nPlease note: It's a very casual event so people often don't RSVP or show up exactly on time. But don't fear, you can always find Appsterdammers at this event! Not sure you're in the right place? Just ask the staff!
+DTSTART:20260902T190000
+DTEND:20260902T220000
+LOCATION:Ten Katestraat 119, Amsterdam
+CLASS:PUBLIC
+STATUS:CONFIRMED
+ORGANIZER;CN="Wesley de Groot":MAILTO:Wesley@appsterdam.rs
+ATTENDEE;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Wesley de Groot":MAILTO:Wesley@appsterdam.rs
+ATTENDEE;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Attendee 0":MAILTO:0@attendee.appsterdam.rs
+ATTENDEE;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Attendee 1":MAILTO:1@attendee.appsterdam.rs
+ATTENDEE;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Attendee 2":MAILTO:2@attendee.appsterdam.rs
+CATEGORIES:Appsterdam Events
+URL:https://meetup.com/appsterdam/events/312986097
+END:VEVENT
+BEGIN:VEVENT
 UID:1271166ef96ba358939580a840ce298b@events.appsterdam.rs
 SUMMARY:Coffee Coding
 DESCRIPTION:Whether you are a seasoned programmer or learning to code Apps, wouldn’t it be cool to run by your challenge with another programmer when you get stuck? Or you have questions, or simply want to be in the environment of other like-minded friends while you work on your project?\n\nWelcome to Appsterdam.\n\nBring your laptop and get feedback, encouragement and support, no matter what level you are at.\n\nShare and contribute. Get guidance. Feel good.\n\nAll levels are welcome, so don’t be shy.\n\nIn the future we plan to have break-out sessions where we will have short talks on valuable topics and also conduct mini-hackathons where all of us get to participate and learn together.\n\nMaike and Daniel are super committed to have an inspired group.\n\nWe start at 9:30 and end at 11:30 sharp, so some a bit closer to 9:30 to make sure you get the help you desire.\n\nJust ask and maybe we can help you with:\n\n• Android Development\n\n• iOS Development\n\n• Flutter Development\n\n• C++\n\n• JavaScript\n\n• Python\n\n• Rust\n\n• UX/UI Design (Adobe XD, Balsamiq, Keynote, Sketch, Figma)
@@ -506,7 +509,6 @@ ATTENDEE;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Attendee 1":MAILTO:1@attendee.appsterda
 ATTENDEE;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Attendee 2":MAILTO:2@attendee.appsterdam.rs
 ATTENDEE;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Attendee 3":MAILTO:3@attendee.appsterdam.rs
 ATTENDEE;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Attendee 4":MAILTO:4@attendee.appsterdam.rs
-ATTENDEE;PARTSTAT=ACCEPTED;RSVP=TRUE;CN="Attendee 5":MAILTO:5@attendee.appsterdam.rs
 CATEGORIES:Appsterdam Events
 URL:https://meetup.com/appsterdam/events/315610663
 END:VEVENT
