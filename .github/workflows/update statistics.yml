@@ -1,4 +1,4 @@
-name: Re-Deploy website
+name: Update statistics
 on:
   workflow_dispatch:
   schedule:
@@ -9,11 +9,11 @@ jobs:
     runs-on: ubuntu-latest   
     steps:
     - uses: actions/checkout@v2
-    - name: Run & Deploy
-      run: |
-        php script.php
-        php gen_cal.php
-    - name: Setup github env
+    - name: Update statistics
+      run: php script.php
+    - name: Generate iCalendar
+      run: php gen_cal.php
+    - name: Setup github environment
       run: |
         git config --global user.name "${GITHUB_ACTOR}"
         git config --global user.email "${GITHUB_ACTOR}@users.noreply.github.com"
