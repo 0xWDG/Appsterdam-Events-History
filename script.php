@@ -13,6 +13,23 @@ $api_response = json_decode(
 // Set the repo URL
 $repoURL = "https://github.com/0xWDG/Appsterdam-Events-History";
 
+// Unify names
+$eventNames = [
+    '/(family\s)?weekend(\sfun:?)?/i' => 'Weekend Fun',
+    '/WWL|Weekly Wednesday Lunchtime Lecture|Wednesday Lunchtime/i' => 'Weekly Wednesday Lunchtime Lectures',
+    '/uncommon ground/i' => 'uncommon ground - a space for creators, coders, and makers',
+    '/(?:Weekly )?Meeten en (?:Day )?Drinken/i' => 'Weekly Meeten en Drinken',
+    '/Guru Session/i' => 'Guru Session',
+    '/Pitch Club/i' => 'Pitch Club',
+    '/Bike Bri(d)?gade/i' => 'Appsterdam Bike Brigade',
+    '/Lunch Event/i' => 'Appsterdam Lunch Event',
+    '/Business Chat/i' => 'Appsterdam Business Chat',
+    '/ndsm/i' => 'NDSM-Werf Hangout',
+    '/#PICNIC12/i' => '#PICNIC12 Events',
+    '/KPN API/i' => 'KPN API Events',
+    '/Formal Friday/i' => 'Formal Friday',
+];
+
 // Create an array to store the indexes
 $stats = array(
     'events' => array(
@@ -81,64 +98,10 @@ foreach ($api_response as $year) {
         // Create an temporary event name for the statistics.
         $tempEventName = $event->name;
 
-        // if the event name contains 'weekend fun:' or 'family weekend', replace it with 'weekend fun'.
-        if (preg_match('/(family\s)?weekend(\sfun:?)?/i', strtolower($event->name))) {
-            $tempEventName = "Weekend Fun";
-        }
-
-        if (preg_match('/(WWL|Weekly Wednesday Lunchtime Lecture|Wednesday Lunchtime)/i', strtolower($event->name))) {
-            $tempEventName = "Weekly Wednesday Lunchtime Lectures";
-        }
-
-        if (preg_match('/uncommon ground/i', strtolower($event->name))) {
-            $tempEventName = "uncommon ground - a space for creators, coders, and makers";
-        }
-
-        if (
-            preg_match('/Meeten en Drinken/i', strtolower($event->name)) ||
-            preg_match('/Weekly Meeten en (Day) Drinken/i', strtolower($event->name))
-        ) {
-            $tempEventName = "Weekly Meeten en Drinken";
-        }
-
-        if (preg_match('/Guru Session/i', strtolower($event->name))) {
-            $tempEventName = "Guru Session";
-        }
-
-        if (preg_match('/Pitch Club/i', strtolower($event->name))) {
-            $tempEventName = "Pitch Club";
-        }
-
-        if (preg_match('/Guru Session/i', strtolower($event->name))) {
-            $tempEventName = "Guru Session";
-        }
-
-        if (preg_match('/Bike Bri(d)?gade/i', strtolower($event->name))) {
-            $tempEventName = "Appsterdam Bike Brigade";
-        }
-
-        if (preg_match('/Lunch Event/i', strtolower($event->name))) {
-            $tempEventName = "Appsterdam Lunch Event";
-        }
-
-        if (preg_match('/Business Chat/i', strtolower($event->name))) {
-            $tempEventName = "Appsterdam Business Chat";
-        }
-
-        if (preg_match('/ndsm/i', strtolower($event->name))) {
-            $tempEventName = "NDSM-Werf Hangout";
-        }
-
-        if (preg_match('/#PICNIC12/i', strtolower($event->name))) {
-            $tempEventName = "#PICNIC12 Events";
-        }
-
-        if (preg_match('/KPN API/i', strtolower($event->name))) {
-            $tempEventName = "KPN API Events";
-        }
-
-        if (preg_match('/Formal Friday/i', strtolower($event->name))) {
-            $tempEventName = "Formal Friday";
+        foreach ($eventNames as $pattern => $name) {
+            if (preg_match($pattern, $event->name)) {
+                $tempEventName = $name;
+            }
         }
 
         // Add the event to the overall statistics.
