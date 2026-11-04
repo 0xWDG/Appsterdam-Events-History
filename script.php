@@ -128,7 +128,15 @@ foreach ($api_response as $year) {
         if (preg_match('/ndsm/i', strtolower($event->name))) {
             $tempEventName = "NDSM-Werf Hangout";
         }
-        
+
+        if (preg_match('/#PICNIC12/i', strtolower($event->name))) {
+            $tempEventName = "#PICNIC12 Events";
+        }
+
+        if (preg_match('/KPN API/i', strtolower($event->name))) {
+            $tempEventName = "KPN API Events";
+        }
+
         // Add the event to the overall statistics.
         $stats['events']['overall'][$tempEventName] = (
             $stats['events']['overall'][$tempEventName] ?? 0
